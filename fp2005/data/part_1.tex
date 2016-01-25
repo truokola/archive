@@ -1,0 +1,72 @@
+\documentclass[a4paper,12pt,twoside]{article}
+%\mag=840  % A4 -> B5
+\usepackage{longtable}
+\usepackage{times}
+\usepackage[latin1]{inputenc}
+\usepackage[finnish]{babel}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0mm}
+\setlength{\voffset}{-20mm}
+\setlength{\hoffset}{-5mm}
+\setlength{\oddsidemargin}{0mm}
+\setlength{\evensidemargin}{0mm}
+\setlength{\textwidth}{160mm}
+\setlength{\textheight}{238mm}
+\setlength{\footskip}{16mm}
+%\pagestyle{empty}
+\def\hfe{\hfill}
+\def\hfb{\relax}
+
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\normalfont\Large\bfseries}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\bfseries}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\normalsize\bfseries}}
+\makeatother
+\def\rright{\rightskip 0pt plus100mm\relax}
+\def\daybreak{\pagestyle{plain}\thispagestyle{fancy}%
+\cleardoublepage\pagestyle{fancy}}
+
+
+\begin{document}
+% for some reason raggedright doesn't work in longtables ?!?
+\pagestyle{fancy}
+\lhead[\rightmark]{\leftmark}
+\rhead[\leftmark]{\rightmark}
+\thispagestyle{plain}
+\markright{Torstai 17.3.2005}
+\setlength{\fboxsep}{2mm}
+\fbox{
+\begin{minipage}{\textwidth}
+\section*{Torstai 17.3.2005}
+\begin{longtable}{::tablehead::}
+&\hfb 10.00--12.30\hfe & {\bf Ilmoittautuminen}, juhla-aula\\
+&\hfb 12.30--13.00\hfe & {\bf Avajaiset}, sali 1 (pj.~Risto Nieminen)\newline
+SFS:n puheenjohtaja Tapio Rantala\newline
+Opetusministeri Tuula Haatainen\newline
+Rehtori Matti Pursula\\
+&\hfb 13.00--14.30\hfe & {\bf Yleisistunto}, sali 1\newline
+{\bf Hanne Ludvigsen} (Teknillinen korkeakoulu): Photonic crystal structures,
+from basic physical concepts to device implementation\newline
+{\bf Katri Huitu} (Helsingin yliopisto):
+Unveiling dark matter through collider experiments\\
+&\hfb 14.30--15.00\hfe & {\bf Kahvi}\\
+&\hfb 15.00--16.30\hfe & {\bf Rinnakkaisistunnot} 1--5\\
+&\hfb 16.30--18.30\hfe & {\bf Poster-istunto} (1--5), aulat, välitasanteet, salit 2 ja 3\\
+&\hfb 16.30--19.00\hfe & {\bf Jaostokokouksia}, kts. sivu 8\\
+&\hfb 19.00--20.00\hfe & {\bf Yleisistunto}, Mellin-sali, TKK (pj.~Kari Enqvist)\newline
+{\bf Helge Kragh} (University of Aarhus):
+The rise of physical cosmology in the 20th century\\
+&\hfb 20.00\hfe & {\bf Tervetulotilaisuus}, Mellin-salin edusta\\
+\end{longtable}
+\vskip -2mm
+Laitenäyttely avoinna 12.30--18.30.
+\end{minipage}}

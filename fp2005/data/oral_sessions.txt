@@ -1,0 +1,14 @@
+1: Condensed matter: structural properties I::Jouko Lahtinen::TKK::sali 1::17
+2: Atomic and molecular physics::Mikko Hakala::HY::takka-sali::17
+3: Astrophysics, cosmology and space physics I::Hannu Kurki-Suonio::HY::sali 26::17
+4: Applied physics and instrumentation I::Marko Vauhkonen::KY::auditorio::17
+5: Fusion and plasma physics::Seppo Karttunen::VTT::sali 25::17
+6: New materials, nanosciences and -technology::Esko Kauppinen::TKK::sali 25::18
+7: Biological and medical physics::Ilpo Vattulainen::TKK::takka-sali::18
+8: Condensed matter: structural properties II::Matti Alatalo::LTY::auditorio::18
+9: Particle and nuclear physics I::Kenneth Österberg::HY::sali 26::18
+10: Condensed matter: electronic properties::Martti Puska::TKK::auditorio::19
+11: Applied physics and instrumentation II::Janne Ruokolainen::TKK::sali 1::19
+12: Astrophysics, cosmology and space physics II::Hannu Koskinen::HY::takka-sali::19
+13: Particle and nuclear physics II::Wladek Trzaska::JY::sali 26::19
+14: Optics::Matti Kaivola::TKK::sali 25::19

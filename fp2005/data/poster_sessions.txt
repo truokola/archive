@@ -1,0 +1,10 @@
+1: Condensed matter: structural properties::17
+2: Atomic and molecular physics::17
+3: Astrophysics, cosmology and space physics::17
+4: Applied physics and instrumentation::17
+5: Fusion and plasma physics::17
+6: New materials, nanosciences and -technology::18
+7: Biological and medical physics::18
+9: Particle and nuclear physics::18
+10: Condensed matter: electronic properties::18
+14: Optics::18

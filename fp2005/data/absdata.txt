@@ -1,0 +1,2775 @@
+1000:authors: S. Yamaletdinov, W.H. Trzaska, Yu. Pyatkov, V. Lyapin
+1000:oral: 0
+1000:session: 7
+1000:speaker: S. Yamaletdinov
+1000:titletex: Independent experimental probe of the collinear cluster tripartition of the $^{252}$Cf nucleus
+1000:titlehtm: Independent experimental probe of the collinear cluster tripartition of the <sup>252</sup>Cf nucleus
+1000:trim: 85 85 85 88
+1001:authors: H. Hoffren, T. Karppinen, T. Kohout, E. Hæggström, L.J. Pesonen
+1001:oral: 0
+1001:session: 9
+1001:speaker: H. Hoffren
+1001:titletex: Ultrasonic quantification of porosity and tortuosity of rocks
+1001:titlehtm: Ultrasonic quantification of porosity and tortuosity of rocks
+1001:trim: 85 85 85 88
+1002:authors: S. Valling, B. Ståhlberg, Å.M. Lindberg
+1002:oral: 1
+1002:session: 6
+1002:speaker: S. Valling
+1002:titletex: Feedback loop for noise suppression in a diode laser pumped solid state laser
+1002:titlehtm: Feedback loop for noise suppression in a diode laser pumped solid state laser
+1002:trim: 0 0 0 0
+1003:authors: A.A. Gurtovenko, M. Miettinen, M. Karttunen, I. Vattulainen
+1003:oral: 0
+1003:session: 4
+1003:speaker: A.A. Gurtovenko
+1003:titletex: Influence of monovalent salt on cationic lipid membranes
+1003:titlehtm: Influence of monovalent salt on cationic lipid membranes
+1003:trim: 0 0 0 0
+1004:authors: M. Patra, M. Karttunen, M.T. Hyvönen, E. Falck, I. Vattulainen
+1004:oral: 0
+1004:session: 4
+1004:speaker: I. Vattulainen
+1004:titletex: Long-range interactions in biomolecular simulations: accuracy and speed
+1004:titlehtm: Long-range interactions in biomolecular simulations: accuracy and speed
+1004:trim: 0 0 0 0
+1005:authors: J. Repáková, P. \v{C}apková, J.M. Holopainen, I. Vattulainen
+1005:oral: 0
+1005:session: 4
+1005:speaker: I. Vattulainen
+1005:titletex: Fluorescent DPH probes in lipid membranes
+1005:titlehtm: Fluorescent DPH probes in lipid membranes
+1005:trim: 0 0 0 0
+1006:authors: S. Peltonen, J. Suhonen, D.S. Delion
+1006:oral: 1
+1006:session: 7
+1006:speaker: S. Peltonen
+1006:titletex: Systematics of the alphadecay to vibrational $2^+$ states
+1006:titlehtm: Systematics of the alphadecay to vibrational 2<sup>+</sup> states
+1006:trim: 85 85 85 88
+1007:authors: M. Kortelainen, E. Holmlund, T.S. Kosmas, J. Suhonen, J. Toivanen
+1007:oral: 0
+1007:session: 7
+1007:speaker: M. Kortelainen
+1007:titletex: LSP detection rates for dark-matter detectors
+1007:titlehtm: LSP detection rates for dark-matter detectors
+1007:trim: 0 0 0 0
+1008:authors: K. Meinander, K. Nordlund, J. Keinonen
+1008:oral: 0
+1008:session: 3
+1008:speaker: K. Meinander
+1008:titletex: Multiple size-selected cluster deposition: epitaxial growth at thermal energies
+1008:titlehtm: Multiple size-selected cluster deposition: epitaxial growth at thermal energies
+1008:trim: 0 0 0 0
+1009:authors: E. Eloranta, J.J. Hänninen
+1009:oral: 0
+1009:session: 9
+1009:speaker: E. Eloranta
+1009:titletex: Kelvin inversion in PEC/PMC sphere for geo-electric imaging
+1009:titlehtm: Kelvin inversion in PEC/PMC sphere for geo-electric imaging
+1009:trim: 0 0 0 0
+1010:authors: T. Kiljunen, H. Järvinen
+1010:oral: 0
+1010:session: 10
+1010:speaker: T. Kiljunen
+1010:titletex: Diagnostic reference levels in paediatric radiography
+1010:titlehtm: Diagnostic reference levels in paediatric radiography
+1010:trim: 85 85 85 88
+1011:authors: O. Punkkinen, P.L. Hansen, I. Vattulainen
+1011:oral: 1
+1011:session: 4
+1011:speaker: O. Punkkinen
+1011:titletex: DNA overstretching transition: Ionic strength effects
+1011:titlehtm: DNA overstretching transition: Ionic strength effects
+1011:trim: 0 0 0 0
+1012:authors: O. Punkkinen, E. Falck, I. Vattulainen, T. Ala-Nissilä
+1012:oral: 0
+1012:session: 4
+1012:speaker: O. Punkkinen
+1012:titletex: Dynamics and scaling of polymers in a dilute solution: Analytical treatment in two and higher dimension
+1012:titlehtm: Dynamics and scaling of polymers in a dilute solution: Analytical treatment in two and higher dimension
+1012:trim: 0 0 0 0
+1013:authors: E. Terama, E. Salonen, M. Karttunen, I. Vattulainen
+1013:oral: 1
+1013:session: 4
+1013:speaker: E. Terama
+1013:titletex: Considerations of the dynamics of a lipid membrane -- alcohol system by molecular dynamics
+1013:titlehtm: Considerations of the dynamics of a lipid membrane &ndash; alcohol system by molecular dynamics
+1013:trim: 0 0 0 0
+1014:authors: I. Sillanpää, E. Kallio, P. Janhunen, W. Schmidt, J.H. Vilppola, K. Mursula, P. Tanskanen
+1014:oral: 1
+1014:session: 8
+1014:speaker: I. Sillanpää
+1014:titletex: Titan's plasma interaction and CASSINI flybys
+1014:titlehtm: Titan's plasma interaction and CASSINI flybys
+1014:trim: 85 85 85 88
+1015:authors: K.E.J. Huttunen, H.E.J. Koskinen, R. Schwenn, V. Bothmer
+1015:oral: 0
+1015:session: 8
+1015:speaker: H.E.J. Koskinen
+1015:titletex: Solar cycle variations of magnetic clouds
+1015:titlehtm: Solar cycle variations of magnetic clouds
+1015:trim: 85 85 85 88
+1016:authors: J. Kotakoski, A.V. Krasheninnikov, K. Nordlund
+1016:oral: 0
+1016:session: 3
+1016:speaker: J. Kotakoski
+1016:titletex: Ion irradiation assisted doping of carbon nanotubes
+1016:titlehtm: Ion irradiation assisted doping of carbon nanotubes
+1016:trim: 0 0 0 0
+1017:authors: T. Ritari, M. Wegmuller, H. Ludvigsen
+1017:oral: 0
+1017:session: 6
+1017:speaker: T. Ritari
+1017:titletex: Birefringence of Panda-type photonic crystal fibers
+1017:titlehtm: Birefringence of Panda-type photonic crystal fibers
+1017:trim: 85 85 85 88
+1018:authors: E. Falck, T. Murtola, M. Patra, M. Karttunen, I. Vattulainen
+1018:oral: 1
+1018:session: 4
+1018:speaker: E. Falck
+1018:titletex: Towards computer models of lipid bilayers at micrometer-scale: Coarse-graining of DPPC/cholesterol bilayers
+1018:titlehtm: Towards computer models of lipid bilayers at micrometer-scale: Coarse-graining of DPPC/cholesterol bilayers
+1018:trim: 0 0 0 0
+1019:authors: E. Falck, M. Patra, M. Karttunen, M.T. Hyvönen, I. Vattulainen
+1019:oral: 0
+1019:session: 4
+1019:speaker: E. Falck
+1019:titletex: Voids in bilayers of saturated phospholipids: Impact of cholesterol
+1019:titlehtm: Voids in bilayers of saturated phospholipids: Impact of cholesterol
+1019:trim: 0 0 0 0
+1020:authors: M. Kauranen
+1020:oral: 1
+1020:session: 0
+1020:speaker: M. Kauranen
+1020:titletex: Symmetries in nonlinear optics
+1020:titlehtm: Symmetries in nonlinear optics
+1020:trim: 85 85 85 88
+1021:authors: C.V. Achim, M. Karttunen, K.R. Elder, E. Granato, S.C. Ying, T. Ala-Nissilä
+1021:oral: 0
+1021:session: 1
+1021:speaker: C.V. Achim
+1021:titletex: Studies of phase field crystal model in the presence of external pinning potential
+1021:titlehtm: Studies of phase field crystal model in the presence of external pinning potential
+1021:trim: 85 85 85 88
+1022:authors: A. Laiho, S. Kivi, O. Ikkala
+1022:oral: 0
+1022:session: 3
+1022:speaker: A. Laiho
+1022:titletex: Characterization of shear induced nanostructures by rheo-optic means
+1022:titlehtm: Characterization of shear induced nanostructures by rheo-optic means
+1022:trim: 85 85 85 88
+1023:authors: T. Enqvist, P. Keränen, J. Peltoniemi
+1023:oral: 0
+1023:session: 7
+1023:speaker: T. Enqvist
+1023:titletex: Plans for supernova neutrino detection in Pyhäsalmi
+1023:titlehtm: Plans for supernova neutrino detection in Pyhäsalmi
+1023:trim: 0 0 0 0
+1024:authors: K. Pussi, R.D. Diehl
+1024:oral: 1
+1024:session: 1
+1024:speaker: K. Pussi
+1024:titletex: Periodic and quasiperiodic model for d-AlNiCo\{00001\} quasicrystal surface
+1024:titlehtm: Periodic and quasiperiodic model for d-AlNiCo{00001} quasicrystal surface
+1024:trim: 0 0 0 0
+1025:authors: J. Kotila, J. Suhonen, D.S. Delion
+1025:oral: 0
+1025:session: 7
+1025:speaker: J. Kotila
+1025:titletex: Study of the low-lying collective states using a Microscopic Anharmonic Vibrator Approach
+1025:titlehtm: Study of the low-lying collective states using a Microscopic Anharmonic Vibrator Approach
+1025:trim: 0 0 0 0
+1026:authors: V. Weijo, P. Manninen, J. Vaara
+1026:oral: 0
+1026:session: 5
+1026:speaker: V. Weijo
+1026:titletex: Parity violating effects in nuclear magnetic resonance spectral parameters
+1026:titlehtm: Parity violating effects in nuclear magnetic resonance spectral parameters
+1026:trim: 0 0 0 0
+1027:authors: F. Tuomisto, O. Ahonen, K. Pennanen, K. Saarinen, J. Sadowski
+1027:oral: 1
+1027:session: 1
+1027:speaker: F. Tuomisto
+1027:titletex: Effects of growth kinetics and manganese concentration on gallium sublattice defects in (Ga,Mn)As
+1027:titlehtm: Effects of growth kinetics and manganese concentration on gallium sublattice defects in (Ga,Mn)As
+1027:trim: 85 85 85 88
+1028:authors: A. Priimägi, S. Cattaneo, S. Valkama, R.H.A. Ras, H. Kosonen, O. Ikkala, M. Kauranen
+1028:oral: 0
+1028:session: 6
+1028:speaker: A. Priimägi
+1028:titletex: Importance of supramolecular interactions in dye-doped polymer systems
+1028:titlehtm: Importance of supramolecular interactions in dye-doped polymer systems
+1028:trim: 85 85 85 88
+1029:authors: P. Träskelin, K. Nordlund, J. Keinonen
+1029:oral: 1
+1029:session: 1
+1029:speaker: P. Träskelin
+1029:titletex: Molecular dynamics simulation of erosion of tungsten carbide by deuterium bombardment
+1029:titlehtm: Molecular dynamics simulation of erosion of tungsten carbide by deuterium bombardment
+1029:trim: 85 85 85 88
+1030:authors: J. Samela, K. Nordlund
+1030:oral: 0
+1030:session: 2
+1030:speaker: J. Samela
+1030:titletex: Quantitative comparison of empirical potentials
+1030:titlehtm: Quantitative comparison of empirical potentials
+1030:trim: 0 0 0 0
+1031:authors: M. Bondila, M. Ivanov, M. Kowalski, K. Safarik
+1031:oral: 0
+1031:session: 7
+1031:speaker: M. Bondila
+1031:titletex: Detection of charged Kaons and neutral strange particles in the ALICE Time Projection Chamber
+1031:titlehtm: Detection of charged Kaons and neutral strange particles in the ALICE Time Projection Chamber
+1031:trim: 85 85 85 88
+1032:authors: T.V. Laitinen, T.I. Pulkkinen, P. Janhunen, H.E.J. Koskinen, M. Palmroth
+1032:oral: 0
+1032:session: 8
+1032:speaker: T.V. Laitinen
+1032:titletex: Magnetotail reconnection region in a global MHD simulation
+1032:titlehtm: Magnetotail reconnection region in a global MHD simulation
+1032:trim: 85 85 85 88
+1033:authors: M. Lehtola, J. Narkilahti
+1033:oral: 0
+1033:session: 7
+1033:speaker: M. Lehtola, J. Narkilahti
+1033:titletex: Preparation of the underground multimuon experiment
+1033:titlehtm: Preparation of the underground multimuon experiment
+1033:trim: 0 0 0 0
+1034:authors: M. Kupiainen, E. Falck, P. Niemelä, S. Ollila, A.A. Gurtovenko, M.T. Hyvönen, M. Patra, M. Karttunen, I. Vattulainen
+1034:oral: 0
+1034:session: 4
+1034:speaker: M. Kupiainen
+1034:titletex: Packing and free volume properties of phospholipids and sphingomyelin
+1034:titlehtm: Packing and free volume properties of phospholipids and sphingomyelin
+1034:trim: 0 0 0 0
+1035:authors: P. Niemelä, M.T. Hyvönen, I. Vattulainen
+1035:oral: 0
+1035:session: 4
+1035:speaker: P. Niemelä
+1035:titletex: Influence of chain length and unsaturation on sphingomyelin bilayers
+1035:titlehtm: Influence of chain length and unsaturation on sphingomyelin bilayers
+1035:trim: 0 0 0 0
+1036:authors: P. Niemelä, M.T. Hyvönen, M. Karttunen, I. Vattulainen
+1036:oral: 1
+1036:session: 4
+1036:speaker: P. Niemelä
+1036:titletex: Large-scale atomistic simulations of lipid rafts
+1036:titlehtm: Large-scale atomistic simulations of lipid rafts
+1036:trim: 0 0 0 0
+1037:authors: M.H. Hakala, A.S. Foster, R.M. Nieminen
+1037:oral: 0
+1037:session: 1
+1037:speaker: A.S. Foster
+1037:titletex: First principles modelling of the silicon-hafnia interface
+1037:titlehtm: First principles modelling of the silicon-hafnia interface
+1037:trim: 85 85 85 88
+1038:authors: P.O. Lehtinen, Y. Ma, A.S. Foster, A.V. Krasheninnikov, R.M. Nieminen
+1038:oral: 0
+1038:session: 1
+1038:speaker: P.O. Lehtinen
+1038:titletex: Magnetic properties of hydrogen and helium on graphene and carbon nanotubes
+1038:titlehtm: Magnetic properties of hydrogen and helium on graphene and carbon nanotubes
+1038:trim: 85 85 85 88
+1039:authors: I.G. Usoskin, S. Solanki, B. Kromer, M. Schuessler, J. Beer
+1039:oral: 1
+1039:session: 8
+1039:speaker: I.G. Usoskin
+1039:titletex: Solar activity reconstruction throughout the holocene: How regular is it?
+1039:titlehtm: Solar activity reconstruction throughout the holocene: How regular is it?
+1039:trim: 85 85 85 88
+1040:authors: I.G. Usoskin, S. Starodubtsev, K. Mursula
+1040:oral: 1
+1040:session: 8
+1040:speaker: I.G. Usoskin
+1040:titletex: Rapid cosmic ray fluctuations: Evidence for cyclic behaviour
+1040:titlehtm: Rapid cosmic ray fluctuations: Evidence for cyclic behaviour
+1040:trim: 85 85 85 88
+1041:authors: M. Rusanen, I.T. Koponen, T. Ala-Nissilä
+1041:oral: 0
+1041:session: 1
+1041:speaker: M. Rusanen
+1041:titletex: Size selection and growth of quantum dots: a rate equation model
+1041:titlehtm: Size selection and growth of quantum dots: a rate equation model
+1041:trim: 85 85 85 88
+1042:authors: J. Vartiainen, M. Möttönen, V. Bergholm
+1042:oral: 0
+1042:session: 3
+1042:speaker: J. Vartiainen
+1042:titletex: Reducing unstructured unitary transformations to elementary gate sequences
+1042:titlehtm: Reducing unstructured unitary transformations to elementary gate sequences
+1042:trim: 85 85 85 88
+1043:authors: T. Hynninen, H. Raebiger, J. von Boehm, R.M. Nieminen
+1043:oral: 0
+1043:session: 2
+1043:speaker: T. Hynninen
+1043:titletex: Clustering of Mn in GaN:Mn
+1043:titlehtm: Clustering of Mn in GaN:Mn
+1043:trim: 85 85 85 88
+1044:authors: I. Makkonen, M. Hakala, M.J. Puska
+1044:oral: 1
+1044:session: 2
+1044:speaker: I. Makkonen
+1044:titletex: Calculation of valence electron momentum densities using the projector augmented-wave method
+1044:titlehtm: Calculation of valence electron momentum densities using the projector augmented-wave method
+1044:trim: 0 0 0 0
+1045:authors: A. Hämäläinen, I. Kosonen, R.M. Nieminen
+1045:oral: 0
+1045:session: 1
+1045:speaker: A. Hämäläinen
+1045:titletex: Traffic simulations with cellular automata
+1045:titlehtm: Traffic simulations with cellular automata
+1045:trim: 0 0 0 0
+1046:authors: J.-P. Martikainen, H.T.C. Stoof, T. Koponen, P. Törmä
+1046:oral: 1
+1046:session: 5
+1046:speaker: J.-P. Martikainen
+1046:titletex: Quantum theory of a vortex line and superfluid fermion responses in an optical lattice
+1046:titlehtm: Quantum theory of a vortex line and superfluid fermion responses in an optical lattice
+1046:trim: 0 0 0 0
+1047:authors: M. Louhivuori, K. Fredriksson, A. Annila
+1047:oral: 1
+1047:session: 4
+1047:speaker: M. Louhivuori
+1047:titletex: Residual dipolar couplings of flexible biomolecules
+1047:titlehtm: Residual dipolar couplings of flexible biomolecules
+1047:trim: 0 0 0 0
+1048:authors: S. Karttunen, R.R.E. Salomaa
+1048:oral: 1
+1048:session: 9
+1048:speaker: S. Karttunen
+1048:titletex: ITER project -- the major step towards fusion energy
+1048:titlehtm: ITER project &ndash; the major step towards fusion energy
+1048:trim: 85 85 85 88
+1049:authors: J. Likonen, E. Vainonen-Ahlgren, R. Zilliacus, T. Renvall, K. Arstila, J.P. Coad, D.E. Hole, M. Rubel, G.F. Matthews, M. Stamp
+1049:oral: 0
+1049:session: 9
+1049:speaker: J. Likonen
+1049:titletex: Beryllium accumulation at the inner divertor of JET
+1049:titlehtm: Beryllium accumulation at the inner divertor of JET
+1049:trim: 85 85 85 88
+1050:authors: L.M. Stimson, M.R. Wilson
+1050:oral: 1
+1050:session: 1
+1050:speaker: L.M. Stimson
+1050:titletex: Computer simulation of macromolecular liquid crystalline materials
+1050:titlehtm: Computer simulation of macromolecular liquid crystalline materials
+1050:trim: 0 0 0 0
+1051:authors: T. Róg, M. Pasenkiewicz-Gierula, I. Vattulainen, M. Karttunen
+1051:oral: 1
+1051:session: 4
+1051:speaker: T. Róg
+1051:titletex: Sterol interaction with membrane lipid
+1051:titlehtm: Sterol interaction with membrane lipid
+1051:trim: 85 85 85 88
+1052:authors: T. Róg, I. Vattulainen, M. Karttunen
+1052:oral: 0
+1052:session: 4
+1052:speaker: T. Róg
+1052:titletex: Modeling glycolipids: Take one
+1052:titlehtm: Modeling glycolipids: Take one
+1052:trim: 85 85 85 88
+1053:authors: P. Pöyry, T. Komppa, A. Kosunen
+1053:oral: 0
+1053:session: 10
+1053:speaker: P. Pöyry
+1053:titletex: Calibration of dose-area product meters for diagnostic X-ray beams
+1053:titlehtm: Calibration of dose-area product meters for diagnostic X-ray beams
+1053:trim: 85 85 85 88
+1054:authors: H. Kajastie, K.K. Nummila, K. Riski
+1054:oral: 0
+1054:session: 9
+1054:speaker: K. Riski
+1054:titletex: Measurement of energy losses in superconducting coils at low frequency magnetic fields
+1054:titlehtm: Measurement of energy losses in superconducting coils at low frequency magnetic fields
+1054:trim: 85 85 85 88
+1055:authors: C.P. Burgess, R. Easther, A. Mazumdar, D.F. Mota, T. Multamäki
+1055:oral: 1
+1055:session: 8
+1055:speaker: T. Multamäki
+1055:titletex: Multiple inflation, cosmic string networks and the string landscape
+1055:titlehtm: Multiple inflation, cosmic string networks and the string landscape
+1055:trim: 0 0 0 0
+1056:authors: E. Salonen, E. Terama, I. Vattulainen, M. Karttunen
+1056:oral: 0
+1056:session: 3
+1056:speaker: E. Salonen
+1056:titletex: Molecular dynamics simulation of polyelectrolyte dielectrophoresis
+1056:titlehtm: Molecular dynamics simulation of polyelectrolyte dielectrophoresis
+1056:trim: 0 0 0 0
+1057:authors: P. Kåll, M.I. Airila
+1057:oral: 1
+1057:session: 9
+1057:speaker: P. Kåll
+1057:titletex: Modeling of local impurity transport in the scrape-off layer of tokamak plasmas
+1057:titlehtm: Modeling of local impurity transport in the scrape-off layer of tokamak plasmas
+1057:trim: 0 0 0 0
+1058:authors: M.I. Airila
+1058:oral: 0
+1058:session: 9
+1058:speaker: M.I. Airila
+1058:titletex: Chaos in high-power high-frequency gyrotrons
+1058:titlehtm: Chaos in high-power high-frequency gyrotrons
+1058:trim: 0 0 0 0
+1059:authors: M.I. Airila, A. Salmi
+1059:oral: 0
+1059:session: 9
+1059:speaker: M.I. Airila
+1059:titletex: Tritium breeding ratio and energy amplification in an infinite lithium blanket
+1059:titlehtm: Tritium breeding ratio and energy amplification in an infinite lithium blanket
+1059:trim: 0 0 0 0
+1060:authors: M.I. Airila, O. Dumbrajs, M. Hirsch, J. Geiger, U. Neuner, H.-J. Hartfuß
+1060:oral: 1
+1060:session: 9
+1060:speaker: M.I. Airila
+1060:titletex: Sightline optimization of the multichannel laser interferometer for W7-X
+1060:titlehtm: Sightline optimization of the multichannel laser interferometer for W7-X
+1060:trim: 0 0 0 0
+1061:authors: P. Nikunen, I. Vattulainen, M. Karttunen
+1061:oral: 1
+1061:session: 4
+1061:speaker: P. Nikunen
+1061:titletex: Reptational dynamics in dissipative particle dynamics simulations of polymer melts
+1061:titlehtm: Reptational dynamics in dissipative particle dynamics simulations of polymer melts
+1061:trim: 0 0 0 0
+1063:authors: T. Tala, C. Bourdelle, F. Imbeaux, D. Moreau, V. Parail, Y. Baranov, G. Corrigan, F. Crisanti, X. Garbet, D. Heading, E. Joffrin, L. Laborde, X. Litaudon, J.S. Lönnroth, P. Mantica, D. Mazon, A. Salmi, P. Strand, J. Weiland, contributors to the EFDA-JET workprogramme
+1063:oral: 1
+1063:session: 9
+1063:speaker: T. Tala
+1063:titletex: Recent progress in transport modelling of internal transport barrier plasmas in the JET tokamak
+1063:titlehtm: Recent progress in transport modelling of internal transport barrier plasmas in the JET tokamak
+1063:trim: 85 85 85 88
+1064:authors: E. Vainonen-Ahlgren, J. Likonen, T. Renvall, V. Rohde, R. Neu, R. Pugno, K. Krieger, M. Mayer
+1064:oral: 0
+1064:session: 9
+1064:speaker: E. Vainonen-Ahlgren
+1064:titletex: Studies on $^{13}$C migration at ASDEX Upgrade tokamak
+1064:titlehtm: Studies on <sup>13</sup>C migration at ASDEX Upgrade tokamak
+1064:trim: 85 85 85 88
+1065:authors: C. Tong, S. Majaniemi, K.R. Elder, T. Laurila, K. Luo, T. Ala-Nissilä
+1065:oral: 0
+1065:session: 1
+1065:speaker: C. Tong
+1065:titletex: Dispersion relations for contact line and meniscus dynamics
+1065:titlehtm: Dispersion relations for contact line and meniscus dynamics
+1065:trim: 100 85 85 106
+1066:authors: A. Kemppinen, J. Nissilä, K. Ojasalo, J. Hassel, A. Manninen, P. Helistö, H. Seppä
+1066:oral: 0
+1066:session: 9
+1066:speaker: A. Kemppinen
+1066:titletex: AC voltage standard based on a nonhysteretic Josephson junction array
+1066:titlehtm: AC voltage standard based on a nonhysteretic Josephson junction array
+1066:trim: 0 0 0 0
+1067:authors: N. Juslin, J. Nord, K.O.E. Henriksson, P. Träskelin, E. Salonen, K. Nordlund, P. Erhart, K. Albe
+1067:oral: 0
+1067:session: 1
+1067:speaker: N. Juslin
+1067:titletex: Development of a molecular dynamics bond order potential for the ternary system tungsten-carbon-hydrogen
+1067:titlehtm: Development of a molecular dynamics bond order potential for the ternary system tungsten-carbon-hydrogen
+1067:trim: 0 0 0 0
+1068:authors: V. Korpelainen, A. Lassila
+1068:oral: 0
+1068:session: 3
+1068:speaker: V. Korpelainen
+1068:titletex: Traceable quantitative microscopy at MIKES
+1068:titlehtm: Traceable quantitative microscopy at MIKES
+1068:trim: 85 85 85 88
+1069:authors: J. Lintuvuori, M. Straka, J. Vaara
+1069:oral: 0
+1069:session: 5
+1069:speaker: J. Lintuvuori
+1069:titletex: Building a simulation model for atomic solutes in thermotropic liquid crystal phases
+1069:titlehtm: Building a simulation model for atomic solutes in thermotropic liquid crystal phases
+1069:trim: 0 0 0 0
+1070:authors: S.V. Henriksson, S. Janhunen, T.P. Kiviniemi, J.A. Heikkinen
+1070:oral: 0
+1070:session: 9
+1070:speaker: S.V. Henriksson
+1070:titletex: Wavenumber spectra of simulated FT-2 plasma turbulence
+1070:titlehtm: Wavenumber spectra of simulated FT-2 plasma turbulence
+1070:trim: 85 85 85 88
+1071:authors: A. Saastamoinen, A. Jokinen, J. Äystö
+1071:oral: 0
+1071:session: 7
+1071:speaker: A. Saastamoinen
+1071:titletex: Double-Sided Silicon Strip Detector system with ultra-thin entrance window for heavy charged particles
+1071:titlehtm: Double-Sided Silicon Strip Detector system with ultra-thin entrance window for heavy charged particles
+1071:trim: 85 85 85 88
+1072:authors: P. Mehtälä
+1072:oral: 1
+1072:session: 7
+1072:speaker: P. Mehtälä
+1072:titletex: Top quark mass measurement at fully hadronic channel using the CDF detector at Fermilab's Tevatron accelerator
+1072:titlehtm: Top quark mass measurement at fully hadronic channel using the CDF detector at Fermilab's Tevatron accelerator
+1072:trim: 85 85 85 88
+1073:authors: A. Kero, C.-F. Enell, P. Verronen, A. Seppälä, Th. Ulich, T. Raita, E. Turunen
+1073:oral: 0
+1073:session: 8
+1073:speaker: A. Kero
+1073:titletex: Artificial heating effects on riometer absorption
+1073:titlehtm: Artificial heating effects on riometer absorption
+1073:trim: 0 0 0 0
+1074:authors: T. Mäki, P. Mehtälä, R. Orava, K. Österberg, H. Saarikko, N. van Remortel
+1074:oral: 0
+1074:session: 7
+1074:speaker: N. van Remortel
+1074:titletex: Top quark physics using the CDf detector at Fermilab's Tevatron accelerator
+1074:titlehtm: Top quark physics using the CDf detector at Fermilab's Tevatron accelerator
+1074:trim: 85 85 85 88
+1075:authors: J.H. Koivisto, L.I. Salminen, J. Rosti, M.J. Alava
+1075:oral: 0
+1075:session: 9
+1075:speaker: J.H. Koivisto
+1075:titletex: Image registration as a tool in studying creep process
+1075:titlehtm: Image registration as a tool in studying creep process
+1075:trim: 0 0 0 0
+1076:authors: M. Miettinen, C. Dias, M. Grant, I. Vattulainen, T. Ala-Nissilä, M. Karttunen
+1076:oral: 0
+1076:session: 4
+1076:speaker: M. Miettinen
+1076:titletex: Pulling out a globule
+1076:titlehtm: Pulling out a globule
+1076:trim: 0 0 0 0
+1077:authors: S. Heinäsmäki, J. Schulz, R. Sankari, E. Kukk, M. Tchaplyguine, T. Rander, O. Björneholm, S. Svensson, H. Aksela, S. Aksela
+1077:oral: 1
+1077:session: 6
+1077:speaker: S. Heinäsmäki
+1077:titletex: Combined laser and synchrotron radiation in spectroscopy
+1077:titlehtm: Combined laser and synchrotron radiation in spectroscopy
+1077:trim: 0 0 0 0
+1078:authors: T.P. Kiviniemi, V. Hynönen, J.S. Lönnroth, T. Kurki-Suonio, M. Santala
+1078:oral: 1
+1078:session: 9
+1078:speaker: T.P. Kiviniemi
+1078:titletex: Ripple-induced fast ion and thermal losses
+1078:titlehtm: Ripple-induced fast ion and thermal losses
+1078:trim: 0 0 0 0
+1079:authors: S. Ollila, M.T. Hyvönen, I. Vattulainen
+1079:oral: 0
+1079:session: 4
+1079:speaker: S. Ollila
+1079:titletex: Molecular dynamics simulations of polyunsaturated lipid bilayers
+1079:titlehtm: Molecular dynamics simulations of polyunsaturated lipid bilayers
+1079:trim: 0 0 0 0
+1080:authors: A. Hakola, O. Heczko, V. Kekkonen, T. Kajava
+1080:oral: 0
+1080:session: 9
+1080:speaker: A. Hakola
+1080:titletex: Pulsed laser deposition of ferromagnetic shape-memory Ni-Mn-Ga and Ni-Mn-Ga-Fe thin films
+1080:titlehtm: Pulsed laser deposition of ferromagnetic shape-memory Ni-Mn-Ga and Ni-Mn-Ga-Fe thin films
+1080:trim: 85 85 85 88
+1081:authors: T.P. Kiviniemi, J.A. Heikkinen, S.V. Henriksson, S. Janhunen, T. Kurki-Suonio, S. Sipilä
+1081:oral: 1
+1081:session: 9
+1081:speaker: T.P. Kiviniemi
+1081:titletex: Generation of neoclassical $E_r$ and its effect on turbulence
+1081:titlehtm: Generation of neoclassical <var>E<sub>r</sub></var> and its effect on turbulence
+1081:trim: 0 0 0 0
+1082:authors: A.V. Krasheninnikov, A.S. Foster, P.O. Lehtinen, J.X. Li, F. Banhart, K. Nordlund, R.M. Nieminen
+1082:oral: 1
+1082:session: 3
+1082:speaker: A.V. Krasheninnikov
+1082:titletex: Electron beam nano-engineering: Morphological changes in carbon nanotubes under electron irradiation
+1082:titlehtm: Electron beam nano-engineering: Morphological changes in carbon nanotubes under electron irradiation
+1082:trim: 85 85 85 88
+1083:authors: A. Salmela, E. Pentti, A. Sebedash, J. Tuoriniemi
+1083:oral: 0
+1083:session: 1
+1083:speaker: A. Salmela
+1083:titletex: Thermometry for a $^3$He / $^4$He adiabatic melting experiment
+1083:titlehtm: Thermometry for a <sup>3</sup>He / <sup>4</sup>He adiabatic melting experiment
+1083:trim: 0 0 0 0
+1084:authors: P. Granholm, T. Lönnroth, J. Blomqvist, T. Enqvist, T. Grahn, P.T. Greenlees, S. Juutinen, A. Keenan, H. Kettunen, P. Kuusiniemi, K.-M. Källman, M. Leino, P. Nieminen, J. Pakarinen, C. Scholey, J. Uusitalo
+1084:oral: 0
+1084:session: 7
+1084:speaker: P. Granholm
+1084:titletex: Search for ``Saturn-ring'' states in nuclei north-east of ${}^{208}$Pb
+1084:titlehtm: Search for "Saturn-ring" states in nuclei north-east of <sup>208</sup>Pb
+1084:trim: 0 0 0 0
+1085:authors: P. Granholm, T. Lönnroth, T. Grahn, R. Granlund, P.T. Greenlees, P. Jones, R. Julin, S. Juutinen, K.-M. Källman, M. Nyman, J. Pakarinen, P. Rahkila
+1085:oral: 0
+1085:session: 7
+1085:speaker: P. Granholm
+1085:titletex: Competing $\gamma$-decay of the isomeric state $J^{\pi} = 25/2^{+}$ in ${}^{211}$Po
+1085:titlehtm: Competing &gamma;-decay of the isomeric state <var>J<sup>&pi;</sup></var> = 25/2<sup>+</sup> in <sup>211</sup>Po
+1085:trim: 0 0 0 0
+1086:authors: P. Granholm, T. Lönnroth, T. Eronen, U. Hager, J. Huikari, P. Karvonen, M. Nyman, H. Penttilä, O. Pöyry, Y-B. Wang, J. Äystö
+1086:oral: 0
+1086:session: 7
+1086:speaker: P. Granholm
+1086:titletex: Hexadecapole magnetism in ${}^{203}$Bi
+1086:titlehtm: Hexadecapole magnetism in <sup>203</sup>Bi
+1086:trim: 0 0 0 0
+1087:authors: S. Kasi
+1087:oral: 1
+1087:session: 9
+1087:speaker: S. Kasi
+1087:titletex: Useful cesium from Chernobyl
+1087:titlehtm: Useful cesium from Chernobyl
+1087:trim: 85 85 85 88
+1089:authors: T. Sonoda, M. Fujita, A. Yamazaki, T. Endo, T. Miyake, T. Suzuki, Y. Miyashita, N. Sato, E. Tanaka, T. Shinozuka
+1089:oral: 0
+1089:session: 7
+1089:speaker: T. Sonoda
+1089:titletex: Development of the new IGISOL at Cyclotron and Radioisotope Center Tohoku University
+1089:titlehtm: Development of the new IGISOL at Cyclotron and Radioisotope Center Tohoku University
+1089:trim: 0 0 0 0
+1090:authors: T. Mäenpää
+1090:oral: 0
+1090:session: 9
+1090:speaker: T. Mäenpää
+1090:titletex: CMS Tracker Outer Barrel integration tests
+1090:titlehtm: CMS Tracker Outer Barrel integration tests
+1090:trim: 0 0 0 0
+1091:authors: K.M. Rantamäki, V. Petr\v{z}ílka, A. Ekedahl, K. Erents, V. Fuchs, M. Goniche, S. Karttunen, J. Mailloux, M.-L. Mayoral, F. \v{Z}á\v{c}ek, contributors to the EFDA--JET work programme
+1091:oral: 1
+1091:session: 9
+1091:speaker: K.M. Rantamäki
+1091:titletex: Lower hybrid power generated hot spots on JET
+1091:titlehtm: Lower hybrid power generated hot spots on JET
+1091:trim: 85 85 85 88
+1092:authors: A.M. Green, J. Koponen, C. McNeile, C. Michael, G. Thompson
+1092:oral: 1
+1092:session: 7
+1092:speaker: J. Koponen
+1092:titletex: $B_s$ meson excited states from the lattice
+1092:titlehtm: <var>B<sub>s</sub></var> meson excited states from the lattice
+1092:trim: 0 0 0 0
+1093:authors: J.A. Heikkinen, S. Janhunen, T.P. Kiviniemi, T.H. Ekholm, S.V. Henriksson
+1093:oral: 1
+1093:session: 9
+1093:speaker: J.A. Heikkinen
+1093:titletex: ELMFIRE: A gyrokinetic code for global transport simulation in tokamaks
+1093:titlehtm: ELMFIRE: A gyrokinetic code for global transport simulation in tokamaks
+1093:trim: 85 85 85 88
+1094:authors: J.A. Heikkinen, S. Janhunen, T.P. Kiviniemi
+1094:oral: 0
+1094:session: 9
+1094:speaker: J.A. Heikkinen
+1094:titletex: Evidence of transport barrier formation in FT-2 tokamak
+1094:titlehtm: Evidence of transport barrier formation in FT-2 tokamak
+1094:trim: 85 85 85 88
+1095:authors: M. Oinonen, Z. Radivojevic, H. Seppänen, V. Borshchov, G. Zinovjev, the ALICE SSD collaboration
+1095:oral: 0
+1095:session: 7
+1095:speaker: M. Oinonen
+1095:titletex: Alice silicon strip detector assembly at Helsinki Institute of Physics
+1095:titlehtm: Alice silicon strip detector assembly at Helsinki Institute of Physics
+1095:trim: 85 85 85 88
+1096:authors: J. Kinnunen, M. Rodríguez, P. Törmä
+1096:oral: 1
+1096:session: 5
+1096:speaker: J. Kinnunen
+1096:titletex: Radio-frequency spectroscopy of strongly interacting Fermi gas
+1096:titlehtm: Radio-frequency spectroscopy of strongly interacting Fermi gas
+1096:trim: 0 0 0 0
+1097:authors: K. Kokko, M. Ropo, M.P.J. Punkkinen, L. Vitos, J. Kollar
+1097:oral: 0
+1097:session: 2
+1097:speaker: K. Kokko
+1097:titletex: Lattice strain and interface energy in PdAg multilayers
+1097:titlehtm: Lattice strain and interface energy in PdAg multilayers
+1097:trim: 0 0 0 0
+1098:authors: M.P.J. Punkkinen, K. Kokko, M. Ropo, I.J. Väyrynen, L. Vitos, J. Kollar
+1098:oral: 0
+1098:session: 2
+1098:speaker: M.P.J. Punkkinen
+1098:titletex: Magnetic ground state of the Fe$_{1-x}$Co$_x$Si alloys
+1098:titlehtm: Magnetic ground state of the Fe<sub>1-<var>x</var></sub>Co<sub><var>x</var></sub>Si alloys
+1098:trim: 85 160 85 88
+1099:authors: A. Huttunen, P. Törmä
+1099:oral: 1
+1099:session: 6
+1099:speaker: A. Huttunen
+1099:titletex: Dispersion compensation with photonic crystal fibers
+1099:titlehtm: Dispersion compensation with photonic crystal fibers
+1099:trim: 0 0 0 0
+1100:authors: M. Sammalkorpi, A.V. Krasheninnikov, A. Kuronen, K. Nordlund, K. Kaski
+1100:oral: 0
+1100:session: 3
+1100:speaker: A. Kuronen
+1100:titletex: Effect of irradiation-induced defects on mechanical properties of carbon nanotube bundles
+1100:titlehtm: Effect of irradiation-induced defects on mechanical properties of carbon nanotube bundles
+1100:trim: 0 0 0 0
+1101:authors: T. Harju, A.S. Demyanova, S.V. Khlebnikov, V. Maslov, Yu. Sobolev, W.H. Trzaska, G. Turin
+1101:oral: 0
+1101:session: 4
+1101:speaker: T. Harju
+1101:titletex: Probing the structures of light nuclei $^{4,6}$He and $^{6,7}$Li via reaction cross-section $\sigma_{R}$ measurements at energies from 5--30 AMeV on silicon $^{28}$Si
+1101:titlehtm: Probing the structures of light nuclei <sup>4,6</sup>He and <sup>6,7</sup>Li via reaction cross-section <var>&sigma;<sub>R</sub></var> measurements at energies from 5&ndash;30 AMeV on silicon <sup>28</sup>Si
+1101:trim: 85 85 85 88
+1102:authors: O.H. Pakarinen, C. Barth, A.S. Foster, R.M. Nieminen, C. Henry
+1102:oral: 0
+1102:session: 1
+1102:speaker: O.H. Pakarinen
+1102:titletex: Simulating nc-AFM imaging of Au clusters on the KBr surface
+1102:titlehtm: Simulating nc-AFM imaging of Au clusters on the KBr surface
+1102:trim: 0 0 0 0
+1103:authors: T. Lehtinen, M. Sillanpää, L. Rochier, P.J. Hakonen
+1103:oral: 0
+1103:session: 2
+1103:speaker: T. Lehtinen
+1103:titletex: Inductive single cooper-pair transistor
+1103:titlehtm: Inductive single cooper-pair transistor
+1103:trim: 0 0 0 0
+1104:authors: S. Tähtinen, B.N. Singh, P. Moilanen, S. Saarela, P. Jacquet, J. Dekeyser, D.J. Edwards
+1104:oral: 0
+1104:session: 7
+1104:speaker: P. Moilanen, S. Saarela
+1104:titletex: Deformation behaviour of copper under in-reactor uniaxial tensile tests
+1104:titlehtm: Deformation behaviour of copper under in-reactor uniaxial tensile tests
+1104:trim: 85 85 85 88
+1105:authors: S. Valkama, H. Kosonen, J. Ruokolainen, T. Haatainen, M. Torkkeli, R. Serimaa, G. ten Brinke, O. Ikkala
+1105:oral: 0
+1105:session: 3
+1105:speaker: S. Valkama
+1105:titletex: Temperature-induced large and reversible photonic bandgap switching in self-assembled polymeric solid films
+1105:titlehtm: Temperature-induced large and reversible photonic bandgap switching in self-assembled polymeric solid films
+1105:trim: 85 85 85 88
+1106:authors: P. Havu, N. Tuomisto, R. Väänänen, M.J. Puska, R.M. Nieminen
+1106:oral: 0
+1106:session: 3
+1106:speaker: P. Havu
+1106:titletex: Modeling of magnetic resonance tunneling diode
+1106:titlehtm: Modeling of magnetic resonance tunneling diode
+1106:trim: 0 0 0 0
+1107:authors: Y. Ma, A.S. Foster, A.V. Krasheninnikov, R.M. Nieminen
+1107:oral: 0
+1107:session: 2
+1107:speaker: Y. Ma
+1107:titletex: Diffusion and magnetic properties of nitrogen on graphite and single-walled carbon nanotubes
+1107:titlehtm: Diffusion and magnetic properties of nitrogen on graphite and single-walled carbon nanotubes
+1107:trim: 85 85 85 88
+1108:authors: M. Ropo, K. Kokko, L. Vitos, J. Kollar
+1108:oral: 0
+1108:session: 2
+1108:speaker: M. Ropo
+1108:titletex: New way to simulate surface segregation: AgPd(111) surface
+1108:titlehtm: New way to simulate surface segregation: AgPd(111) surface
+1108:trim: 0 0 0 0
+1109:authors: I. Kassamakov, L. Kolaklieva, J. Aaltonen, E. Hæggström, H. Saarikko, R. Kakanakov
+1109:oral: 0
+1109:session: 9
+1109:speaker: I. Kassamakov
+1109:titletex: Scanning white light interferometry study of ohmic contacts to p-type SiC
+1109:titlehtm: Scanning white light interferometry study of ohmic contacts to p-type SiC
+1109:trim: 85 85 85 78
+1110:authors: T. Grahn, A. Dewald, S. Christen, S. Eeckhaudt, P.T. Greenlees, K. Helariutta, P. Jones, R. Julin, S. Juutinen, M. Leino, A.-P. Leppänen, B. Melon, O. Möller, P. Nieminen, M. Nyman, R. Page, J. Pakarinen, P. Rahkila, B. Saha, C. Scholey, J. Uusitalo
+1110:oral: 1
+1110:session: 7
+1110:speaker: T. Grahn
+1110:titletex: Lifetime measurements of excited states in very neutron deficient Pb and Po nuclei
+1110:titlehtm: Lifetime measurements of excited states in very neutron deficient Pb and Po nuclei
+1110:trim: 0 0 0 0
+1111:authors: K.O.E. Henriksson, K. Nordlund, A.V. Krasheninnikov, J. Keinonen
+1111:oral: 1
+1111:session: 9
+1111:speaker: K.O.E. Henriksson
+1111:titletex: Hydrogen and helium cluster formation in tungsten
+1111:titlehtm: Hydrogen and helium cluster formation in tungsten
+1111:trim: 0 0 0 0
+1112:authors: U. Hager, T. Eronen, S. Kopecky, V.-V. Elomaa, J. Hakala, A. Jokinen, A. Kankainen, I. Moore, A. Nieminen, S. Rinta-Antila, J. Äystö
+1112:oral: 1
+1112:session: 7
+1112:speaker: U. Hager
+1112:titletex: Results from recent mass measurements employing a high-precision Penning trap
+1112:titlehtm: Results from recent mass measurements employing a high-precision Penning trap
+1112:trim: 0 0 0 0
+1113:authors: M. Paajanen, O.H. Pakarinen, J. Katainen, J. Lahtinen, P. Hautojärvi
+1113:oral: 1
+1113:session: 9
+1113:speaker: M. Paajanen
+1113:titletex: Adhesion of small particles in humid conditions
+1113:titlehtm: Adhesion of small particles in humid conditions
+1113:trim: 0 0 0 0
+1114:authors: T.M.J. Ikonen, V. Hynönen, H. Urano
+1114:oral: 0
+1114:session: 9
+1114:speaker: T.M.J. Ikonen
+1114:titletex: Search for deterministic chaos in ELM time series of ASDEX Upgrade tokamak
+1114:titlehtm: Search for deterministic chaos in ELM time series of ASDEX Upgrade tokamak
+1114:trim: 0 0 0 0
+1115:authors: K. Blomstedt, T. Setälä, A.T. Friberg
+1115:oral: 0
+1115:session: 6
+1115:speaker: K. Blomstedt
+1115:titletex: Effect of losses on the universality of field correlations in statistically homogeneous and isotropic systems
+1115:titlehtm: Effect of losses on the universality of field correlations in statistically homogeneous and isotropic systems
+1115:trim: 85 85 100 39
+1116:authors: J. Kopu, A.P. Finne, V.B. Eltsov, M. Krusius, E.V. Thuneberg
+1116:oral: 1
+1116:session: 1
+1116:speaker: J. Kopu
+1116:titletex: Propagation of quantized vortices as a twisted cluster
+1116:titlehtm: Propagation of quantized vortices as a twisted cluster
+1116:trim: 0 0 0 0
+1117:authors: J. Lehtinen, T. Laurila, T. Reivonen, E. Levänen, T. Mäntylä, L. Lassila, S. Tuusa, P. Kienanen, P. Vallittu, R. Hernberg
+1117:oral: 0
+1117:session: 10
+1117:speaker: J. Lehtinen
+1117:titletex: Development of optically functional composite materials for medicine and dentistry
+1117:titlehtm: Development of optically functional composite materials for medicine and dentistry
+1117:trim: 85 85 85 88
+1121:authors: M. Roos
+1121:oral: 1
+1121:session: 8
+1121:speaker: M. Roos
+1121:titletex: Are two kinds of dark matter seen in galactic gamma rays?
+1121:titlehtm: Are two kinds of dark matter seen in galactic gamma rays?
+1121:trim: 85 85 85 88
+1122:authors: A. Jokinen, C. Aa. Diget, H. Fynbo, W. Huang, J. Huikari, P. Jones, S. Rinta-Antila, Y. Wang, J. Äystö
+1122:oral: 1
+1122:session: 8
+1122:speaker: A. Jokinen
+1122:titletex: Revised rates for the stellar triple-alpha process from measurements of the $^{12}$C nuclear resonances
+1122:titlehtm: Revised rates for the stellar triple-alpha process from measurements of the <sup>12</sup>C nuclear resonances
+1122:trim: 85 85 85 88
+1123:authors: T. Nissinen, M. Gasik
+1123:oral: 0
+1123:session: 7
+1123:speaker: T. Nissinen
+1123:titletex: Microwave synthesis of MnCo$_2$O$_4$ nanoparticles on carbon
+1123:titlehtm: Microwave synthesis of MnCo<sub>2</sub>O<sub>4</sub> nanoparticles on carbon
+1123:trim: 85 85 85 88
+1124:authors: A. Kiiskinen, R. Orava, L. Salmi, N. van Remortel, K. Österberg
+1124:oral: 0
+1124:session: 7
+1124:speaker: L. Salmi
+1124:titletex: Recent results from the DELPHI experiment at LEP
+1124:titlehtm: Recent results from the DELPHI experiment at LEP
+1124:trim: 0 0 0 0
+1125:authors: S. Nikkinen, M. Oinonen, Z. Radivojevic, H. Seppänen, the ALICE SSD collaboration
+1125:oral: 0
+1125:session: 7
+1125:speaker: S. Nikkinen
+1125:titletex: Alice silicon strip detector module characteristics via electrical testing
+1125:titlehtm: Alice silicon strip detector module characteristics via electrical testing
+1125:trim: 85 85 85 88
+1126:authors: P. Manninen, J. Hovila, P. Kärhä, E. Ikonen
+1126:oral: 1
+1126:session: 6
+1126:speaker: P. Manninen
+1126:titletex: Photometry of light emitting diodes
+1126:titlehtm: Photometry of light emitting diodes
+1126:trim: 85 85 85 88
+1127:authors: M. Järvinen
+1127:oral: 1
+1127:session: 7
+1127:speaker: M. Järvinen
+1127:titletex: Hydrogen atom in relativistic motion
+1127:titlehtm: Hydrogen atom in relativistic motion
+1127:trim: 0 0 0 0
+1128:authors: K. Lehtinen, S. Jussila, O-V. Kaukoniemi, T. Mäkelä
+1128:oral: 0
+1128:session: 3
+1128:speaker: K. Lehtinen
+1128:titletex: Dielectric measurements of polyaniline-based antistatic paper
+1128:titlehtm: Dielectric measurements of polyaniline-based antistatic paper
+1128:trim: 85 85 85 87
+1129:authors: R. Sankari, S. Aksela
+1129:oral: 0
+1129:session: 9
+1129:speaker: R. Sankari
+1129:titletex: Update of the Finnish beamline I411 at MAX-lab: simulation of expected performance
+1129:titlehtm: Update of the Finnish beamline I411 at MAX-lab: simulation of expected performance
+1129:trim: 0 0 0 0
+1130:authors: R. Sankari, E. Kukk, M. Huttula, S. Aksela
+1130:oral: 0
+1130:session: 9
+1130:speaker: R. Sankari
+1130:titletex: Electron ion coincidence setup: initial plans
+1130:titlehtm: Electron ion coincidence setup: initial plans
+1130:trim: 0 0 0 0
+1131:authors: V. Hynönen, T. Kurki-Suonio, W. Suttrop
+1131:oral: 0
+1131:session: 9
+1131:speaker: V. Hynönen
+1131:titletex: Simulations of fast particle distributions in quiescent H-mode of ASDEX Upgrade
+1131:titlehtm: Simulations of fast particle distributions in quiescent H-mode of ASDEX Upgrade
+1131:trim: 85 85 85 88
+1132:authors: R. Sankari, J. Nikkinen, S. Aksela, H. Aksela, T. Ricsóka, Á. Kövér, S. Ricz
+1132:oral: 0
+1132:session: 5
+1132:speaker: R. Sankari
+1132:titletex: Angular distribution of Ar 3p subshell at Ar 2p threshold: an interplay between the continuum and discrete channels
+1132:titlehtm: Angular distribution of Ar 3p subshell at Ar 2p threshold: an interplay between the continuum and discrete channels
+1132:trim: 0 0 0 0
+1133:authors: H.G.O. Sandberg, T. Nyberg, T. Mäkelä
+1133:oral: 0
+1133:session: 5
+1133:speaker: H.G.O. Sandberg
+1133:titletex: Using a MEH:PPV / C$_{60}$ photodiode as a fast light switch
+1133:titlehtm: Using a MEH:PPV / C<sub>60</sub> photodiode as a fast light switch
+1133:trim: 0 0 0 0
+1134:authors: J. Huovelin, R. Vainio, M. Grande, G. Fraser, H.E.J. Koskinen, M. Kato, K. Muinonen, A. Harjunmaa, J. Laukkanen, A. Mälkki, H. Andersson, S. Nenonen, S. Vaijärvi, E. Valtonen
+1134:oral: 0
+1134:session: 8
+1134:speaker: R. Vainio
+1134:titletex: Energetic charged particle measurements by SIXS on-board BepiColombo
+1134:titlehtm: Energetic charged particle measurements by SIXS on-board BepiColombo
+1134:trim: 0 0 0 0
+1135:authors: T. Mäntylä, I.T. Koponen
+1135:oral: 1
+1135:session: 11
+1135:speaker: T. Mäntylä
+1135:titletex: Challenges of teacher education for physics departments
+1135:titlehtm: Challenges of teacher education for physics departments
+1135:trim: 102 85 102 80
+1136:authors: R. Sankari, S. Heinäsmäki, E. Kukk, S. Aksela, H. Aksela, J. Schulz, M. Tchaplyguine, T. Rander, O. Björneholm, S. Svensson
+1136:oral: 0
+1136:session: 5
+1136:speaker: R. Sankari
+1136:titletex: Photoelectron studies of free laser-excited alkali metal atoms at MAX-lab, Sweden
+1136:titlehtm: Photoelectron studies of free laser-excited alkali metal atoms at MAX-lab, Sweden
+1136:trim: 0 0 0 0
+1137:authors: K. Laaksonen, H.-P. Komsa, M. Ganchenkova, R.M. Nieminen
+1137:oral: 0
+1137:session: 2
+1137:speaker: K. Laaksonen
+1137:titletex: Electronic and structural properties of nitride alloys
+1137:titlehtm: Electronic and structural properties of nitride alloys
+1137:trim: 0 0 0 0
+1138:authors: A. Salmi, M.J. Mantsinen, P. Beaumont, P. de Vries, L.-G. Eriksson, C. Gowers, J.-M. Noterdaeme, D. Testa
+1138:oral: 0
+1138:session: 9
+1138:speaker: A. Salmi
+1138:titletex: Fast proton energy distribution during second harmonic ICRF heating of fusion plasmas
+1138:titlehtm: Fast proton energy distribution during second harmonic ICRF heating of fusion plasmas
+1138:trim: 85 85 85 88
+1139:authors: M. Walter, H. Häkkinen
+1139:oral: 1
+1139:session: 5
+1139:speaker: M. Walter
+1139:titletex: Photoionisation using Kohn-Sham wave functions
+1139:titlehtm: Photoionisation using Kohn-Sham wave functions
+1139:trim: 85 85 85 88
+1141:authors: L. Porra, H. Suhonen, S. Bayat, P. Suortti, A.R.A. Sovijärvi
+1141:oral: 0
+1141:session: 10
+1141:speaker: L. Porra
+1141:titletex: Imaging asthmatic airway narrowing with synchrotron radiation CT
+1141:titlehtm: Imaging asthmatic airway narrowing with synchrotron radiation CT
+1141:trim: 0 0 0 0
+1142:authors: T. Mäkinen, A.-M. Harri, T. Siili, A. Lehto, J. Polkko, M. Genzer, H. Kahanpää
+1142:oral: 1
+1142:session: 8
+1142:speaker: T. Mäkinen
+1142:titletex: Pressure measurements in the atmosphere of Titan
+1142:titlehtm: Pressure measurements in the atmosphere of Titan
+1142:trim: 0 0 0 0
+1143:authors: S. Osmekhin, S. Urpelainen, R. Sankari, J. Nikkinen, M. Huttula, E. Kukk, S. Heinäsmäki, H. Aksela, S. Aksela
+1143:oral: 1
+1143:session: 5
+1143:speaker: S. Osmekhin
+1143:titletex: Small antimony clusters studied using electron spectroscopy and time-of-flight mass spectroscopy
+1143:titlehtm: Small antimony clusters studied using electron spectroscopy and time-of-flight mass spectroscopy
+1143:trim: 85 85 85 88
+1144:authors: S. Sipilä, W. Fundamenski
+1144:oral: 1
+1144:session: 9
+1144:speaker: S. Sipilä
+1144:titletex: ASCOT simulations of ITER divertor target loads
+1144:titlehtm: ASCOT simulations of ITER divertor target loads
+1144:trim: 85 85 85 73
+1145:authors: J. Toivanen, J. Suhonen
+1145:oral: 1
+1145:session: 7
+1145:speaker: J. Toivanen
+1145:titletex: Shell model calculations at JYFL using the shell model code EICODE
+1145:titlehtm: Shell model calculations at JYFL using the shell model code EICODE
+1145:trim: 85 85 95 38
+1146:authors: H. Vanhamäki, A. Viljanen, O. Amm
+1146:oral: 0
+1146:session: 8
+1146:speaker: H. Vanhamäki
+1146:titletex: Induction effects on ionospheric electromagnetic fields
+1146:titlehtm: Induction effects on ionospheric electromagnetic fields
+1146:trim: 0 0 0 0
+1147:authors: S. Osmekhin, M. Määttä, R. Sankari, J. Nikkinen, E. Kukk, S.-M. Huttula, S. Heinäsmäki, H. Aksela, S. Aksela
+1147:oral: 0
+1147:session: 5
+1147:speaker: S. Osmekhin
+1147:titletex: The Xe $4d^{-1}_{3/2,5/2}6p$ resonance auger decay studied using electron and ion spectroscopy
+1147:titlehtm: The Xe 4d<sup>-1</sup><sub>3/2,5/2</sub>6p resonance auger decay studied using electron and ion spectroscopy
+1147:trim: 85 85 85 88
+1148:authors: V. Palonen, P. Tikkanen
+1148:oral: 1
+1148:session: 9
+1148:speaker: V. Palonen
+1148:titletex: Bayesian model selection and frequency detection in paleoclimatic proxy data
+1148:titlehtm: Bayesian model selection and frequency detection in paleoclimatic proxy data
+1148:trim: 0 0 0 0
+1149:authors: P. Laukkanen, M. Kuzmin, R.E. Perälä, M. Ahola, I.J. Väyrynen, J. Sadowski, J. Konttinen, T. Jouhti, C.S. Peng, M. Saarinen, M. Pessa
+1149:oral: 1
+1149:session: 2
+1149:speaker: P. Laukkanen
+1149:titletex: Electronic and structural properties of GaAs(100)($2×4$) and InAs(100)($2×4$) surfaces studied by core-level photoemission and scanning tunneling microscopy
+1149:titlehtm: Electronic and structural properties of GaAs(100)(2×4) and InAs(100)(2×4) surfaces studied by core-level photoemission and scanning tunneling microscopy
+1149:trim: 85 85 85 88
+1150:authors: M. Voiculescu, I. Virtanen, T. Nygren
+1150:oral: 0
+1150:session: 8
+1150:speaker: T. Nygren
+1150:titletex: Satellite tomography studies of the F region trough
+1150:titlehtm: Satellite tomography studies of the F region trough
+1150:trim: 85 85 85 88
+1151:authors: E. Salonen, E. Terama, I. Vattulainen, M. Karttunen
+1151:oral: 1
+1151:session: 4
+1151:speaker: E. Salonen
+1151:titletex: Dielectrophoresis of nanocolloids
+1151:titlehtm: Dielectrophoresis of nanocolloids
+1151:trim: 0 0 0 0
+1152:authors: T. Pöyhönen, T. Laurila, R. Hernberg
+1152:oral: 0
+1152:session: 6
+1152:speaker: T. Pöyhönen
+1152:titletex: High-power optical fiber amplifier in photoacoustic spectroscopy
+1152:titlehtm: High-power optical fiber amplifier in photoacoustic spectroscopy
+1152:trim: 85 85 85 88
+1153:authors: A. Penttilä, S. Heinäsmäki, R. Sankari, S. Aksela, H. Aksela
+1153:oral: 0
+1153:session: 5
+1153:speaker: A. Penttilä
+1153:titletex: Investigation of the electron correlation effects in atomic europium
+1153:titlehtm: Investigation of the electron correlation effects in atomic europium
+1153:trim: 0 0 0 0
+1154:authors: T. Nygren, A.T. Aikio, M. Voiculescu
+1154:oral: 0
+1154:session: 8
+1154:speaker: T. Nygren
+1154:titletex: Polar cap sporadic E created by means of the electric field mechanism
+1154:titlehtm: Polar cap sporadic E created by means of the electric field mechanism
+1154:trim: 85 85 85 88
+1155:authors: T. Laurila, C. Tong, S. Majaniemi, I. Huopaniemi, T. Ala-Nissilä
+1155:oral: 1
+1155:session: 1
+1155:speaker: T. Laurila
+1155:titletex: Coupling a disordered medium to a phase-field model of capillary rise
+1155:titlehtm: Coupling a disordered medium to a phase-field model of capillary rise
+1155:trim: 0 0 0 0
+1156:authors: T. Santa-Nokki, H. Häkkinen
+1156:oral: 0
+1156:session: 5
+1156:speaker: T. Santa-Nokki
+1156:titletex: Anomalous binding sequence of CO ligands to anionic triplatinum carbonyl complex
+1156:titlehtm: Anomalous binding sequence of CO ligands to anionic triplatinum carbonyl complex
+1156:trim: 85 85 85 88
+1157:authors: T. Säles, W. Schmidt, P. Riihelä, M. Mäkelä, E. Kallio
+1157:oral: 0
+1157:session: 8
+1157:speaker: T. Säles
+1157:titletex: ASPERA instruments on Mars Express and Venus Express to study Martian and Venusian atmospheric erosion
+1157:titlehtm: ASPERA instruments on Mars Express and Venus Express to study Martian and Venusian atmospheric erosion
+1157:trim: 85 85 85 88
+1158:authors: J. Hyväluoma, P. Raiskinmäki, A. Koponen, M. Kataja, J. Timonen
+1158:oral: 1
+1158:session: 1
+1158:speaker: J. Hyväluoma
+1158:titletex: Lattice-Boltzmann simulation of particle suspensions in shear flow
+1158:titlehtm: Lattice-Boltzmann simulation of particle suspensions in shear flow
+1158:trim: 0 0 0 0
+1160:authors: R. Laiho, A. Lashkul, K. Lisunova, E. Lähderanta, I. Ojala, V. Zakhvalinskii
+1160:oral: 0
+1160:session: 2
+1160:speaker: I. Ojala
+1160:titletex: Magnetic freezing in cadmiun antimonide doped by nickel
+1160:titlehtm: Magnetic freezing in cadmiun antimonide doped by nickel
+1160:trim: 0 0 0 0
+1161:authors: M. Aronniemi, J. Sainio, J. Lahtinen
+1161:oral: 0
+1161:session: 1
+1161:speaker: M. Aronniemi
+1161:titletex: Chemical state quantification of iron and chromium oxides using XPS
+1161:titlehtm: Chemical state quantification of iron and chromium oxides using XPS
+1161:trim: 0 0 0 0
+1162:authors: M. Hirsimäki, M. Lampimäki, K. Lahtonen, I. Chorkendorff, M. Valden
+1162:oral: 1
+1162:session: 1
+1162:speaker: M. Hirsimäki
+1162:titletex: Influence of adsorbate induced segregation of copper on the surface oxidation kinetics of copper-silver alloys
+1162:titlehtm: Influence of adsorbate induced segregation of copper on the surface oxidation kinetics of copper-silver alloys
+1162:trim: 85 85 85 88
+1163:authors: I. Huopaniemi, T. Laurila, C. Tong, S. Majaniemi, T. Ala-Nissilä
+1163:oral: 0
+1163:session: 1
+1163:speaker: I. Huopaniemi
+1163:titletex: Dynamics of interfaces and kinetic roughening in forced imbibition
+1163:titlehtm: Dynamics of interfaces and kinetic roughening in forced imbibition
+1163:trim: 0 0 0 0
+1164:authors: S. Lehtonen, V.P. Plessky, N. Béreux, M.M. Salomaa
+1164:oral: 0
+1164:session: 9
+1164:speaker: S. Lehtonen
+1164:titletex: Performances of surface-acoustic-wave reflectors on the 128$^\circ$ LiNbO$_3$ substrate
+1164:titlehtm: Performances of surface-acoustic-wave reflectors on the 128&deg; LiNbO<sub>3</sub> substrate
+1164:trim: 85 85 85 88
+1165:authors: T. Räihä, T. Enqvist, V. Föhr, J. Joutsenvaara, T. Jämsén, P. Keränen, T. Kulju, H. Laitala, M. Lehtola, K. Loo, J. Mattas, A.E.P. Mattila, J. Narkilahti, S. Nurmenniemi, J. Peltoniemi, H. Remes, J. Sarkamo, C. Shen
+1165:oral: 1
+1165:session: 8
+1165:speaker: T. Räihä
+1165:titletex: Simulations of underground multimuon events
+1165:titlehtm: Simulations of underground multimuon events
+1165:trim: 0 0 0 0
+1166:authors: J.A. Soininen
+1166:oral: 0
+1166:session: 2
+1166:speaker: J.A. Soininen
+1166:titletex: Theory and calculations of inelastic x-ray scattering
+1166:titlehtm: Theory and calculations of inelastic x-ray scattering
+1166:trim: 0 0 0 0
+1167:authors: S. Lehtonen, V.P. Plessky, C.S. Hartmann, M.M. Salomaa
+1167:oral: 0
+1167:session: 9
+1167:speaker: S. Lehtonen
+1167:titletex: Extraction of the surface-acoustic-wave attenuation parameter in periodic reflecting gratings
+1167:titlehtm: Extraction of the surface-acoustic-wave attenuation parameter in periodic reflecting gratings
+1167:trim: 85 85 85 88
+1168:authors: M. Jahma, M. Rusanen, I.T. Koponen, T. Ala-Nissilä
+1168:oral: 0
+1168:session: 1
+1168:speaker: M. Jahma
+1168:titletex: Rate equation model for submonolayer growth in hyperthermal deposition on Cu(100), Cu(111) and Pl(111)
+1168:titlehtm: Rate equation model for submonolayer growth in hyperthermal deposition on Cu(100), Cu(111) and Pl(111)
+1168:trim: 0 0 0 0
+1169:authors: I. Kassamakov, M. Oinonen, H. Saarikko, H. Seppänen
+1169:oral: 0
+1169:session: 9
+1169:speaker: Z. Radivojevic
+1169:titletex: Rapid IR inspection of light and flexible tab interconnections
+1169:titlehtm: Rapid IR inspection of light and flexible tab interconnections
+1169:trim: 85 85 85 88
+1170:authors: M. Oinonen, F. Garcia, J. Heino, K. Kurvinen, R. Lauhakangas, A. Numminen, J. Ojala, R. Orava, H. Saarikko
+1170:oral: 0
+1170:session: 9
+1170:speaker: M. Oinonen
+1170:titletex: Physics-driven projects at the Detector Laboratory in Kumpula
+1170:titlehtm: Physics-driven projects at the Detector Laboratory in Kumpula
+1170:trim: 85 85 85 88
+1171:authors: M. Ahonen, M. Hirsimäki, M. Valden
+1171:oral: 1
+1171:session: 9
+1171:speaker: M. Ahonen
+1171:titletex: Angle resolved molecular beam surface scattering apparatus for the study of adsorption dynamics and kinetics
+1171:titlehtm: Angle resolved molecular beam surface scattering apparatus for the study of adsorption dynamics and kinetics
+1171:trim: 85 85 85 88
+1172:authors: E. Loos, S. Aksela
+1172:oral: 0
+1172:session: 9
+1172:speaker: E. Loos
+1172:titletex: Design of a new high resolution time-of-flight electron spectrometer
+1172:titlehtm: Design of a new high resolution time-of-flight electron spectrometer
+1172:trim: 85 85 85 75
+1173:authors: M. Leino, J. Nieminen, T.T. Rantala
+1173:oral: 1
+1173:session: 2
+1173:speaker: M. Leino
+1173:titletex: Temperature effects on quantum distribution of hydrogen adsorbate on nickel (100)-surface
+1173:titlehtm: Temperature effects on quantum distribution of hydrogen adsorbate on nickel (100)-surface
+1173:trim: 0 0 0 0
+1174:authors: J. Blomqvist, P. Salo
+1174:oral: 0
+1174:session: 2
+1174:speaker: J. Blomqvist
+1174:titletex: Oxygen induced reconstruction on a Cu(100) surface
+1174:titlehtm: Oxygen induced reconstruction on a Cu(100) surface
+1174:trim: 0 0 0 0
+1175:authors: A. Penttilä, S.-M. Huttula, H. Aksela
+1175:oral: 0
+1175:session: 5
+1175:speaker: A. Penttilä
+1175:titletex: Interference effects in angular parameters in the cascade Auger spectrum of krypton
+1175:titlehtm: Interference effects in angular parameters in the cascade Auger spectrum of krypton
+1175:trim: 0 0 0 0
+1176:authors: S. Kasi
+1176:oral: 1
+1176:session: 9
+1176:speaker: S. Kasi
+1176:titletex: Probable reason for summer freezing of esker water
+1176:titlehtm: Probable reason for summer freezing of esker water
+1176:trim: 85 85 85 88
+1177:authors: E. Niemi, K. Morgenstern, J. Nieminen
+1177:oral: 0
+1177:session: 2
+1177:speaker: E. Niemi
+1177:titletex: STM images and tunneling channels of substituted benzene molecules
+1177:titlehtm: STM images and tunneling channels of substituted benzene molecules
+1177:trim: 85 85 85 88
+1178:authors: M. Granvik, K. Muinonen
+1178:oral: 0
+1178:session: 8
+1178:speaker: M. Granvik
+1178:titletex: Thousands of new asteroids among hitherto unidentified moving objects?
+1178:titlehtm: Thousands of new asteroids among hitherto unidentified moving objects?
+1178:trim: 0 0 0 0
+1179:authors: S.M.M. Virtanen, M. Möttönen, T. Isoshima, M.M. Salomaa
+1179:oral: 1
+1179:session: 5
+1179:speaker: S.M.M. Virtanen
+1179:titletex: Stationary vortex clusters in nonrotating Bose-Einstein condensates
+1179:titlehtm: Stationary vortex clusters in nonrotating Bose-Einstein condensates
+1179:trim: 0 0 0 0
+1180:authors: H. Saarikoski, S.M. Reimann, E. Räsänen, A. Harju, M.J. Puska, R.M. Nieminen
+1180:oral: 1
+1180:session: 2
+1180:speaker: H. Saarikoski
+1180:titletex: Stability of vortex structures in quantum dots
+1180:titlehtm: Stability of vortex structures in quantum dots
+1180:trim: 85 85 83 88
+1181:authors: J. Psencik, P. Laurinmäki, T. Ikonen, S. Butcher, R. Serimaa, R. Tuma
+1181:oral: 0
+1181:session: 4
+1181:speaker: T. Ikonen
+1181:titletex: Structural studies on chlorosomes
+1181:titlehtm: Structural studies on chlorosomes
+1181:trim: 0 0 0 0
+1182:authors: E. Kuusela, T. Ala-Nissilä
+1182:oral: 1
+1182:session: 4
+1182:speaker: E. Kuusela
+1182:titletex: Sedimentation on non-Brownian spheroidal particles with finite Reynolds number
+1182:titlehtm: Sedimentation on non-Brownian spheroidal particles with finite Reynolds number
+1182:trim: 85 85 85 88
+1183:authors: H. Seppänen, I. Kassamakov, M. Oinonen, J. Aaltonen, V. Borshchov, E. Hæggström, S. Kiprich, Z. Radivojevic, H. Saarikko, I. Tymchuk, M. Österberg
+1183:oral: 1
+1183:session: 9
+1183:speaker: H. Seppänen
+1183:titletex: Non-destructive bond process control for the ALICE SSD modules with scanning white-light interferometry
+1183:titlehtm: Non-destructive bond process control for the ALICE SSD modules with scanning white-light interferometry
+1183:trim: 85 85 85 88
+1184:authors: M. Lampimäki, K. Lahtonen, M. Hirsimäki, M. Valden
+1184:oral: 1
+1184:session: 1
+1184:speaker: M. Lampimäki
+1184:titletex: Oxidation induced nanostructures on Cu(100), Cu(Ag) and Ag/Cu(100) studied by photoelectron spectroscopy
+1184:titlehtm: Oxidation induced nanostructures on Cu(100), Cu(Ag) and Ag/Cu(100) studied by photoelectron spectroscopy
+1184:trim: 85 85 85 88
+1185:authors: J. Turku, T. Ruotsalainen, J. Ruokolainen, T. Laitinen, U. Vainio, R. Serimaa, G. ten Brinke, A. Harlin, O. Ikkala
+1185:oral: 0
+1185:session: 3
+1185:speaker: J. Turku
+1185:titletex: Self-assembly within nanoscale fibers as compared to bulk matter
+1185:titlehtm: Self-assembly within nanoscale fibers as compared to bulk matter
+1185:trim: 85 85 85 88
+1186:authors: E. Kuusela, J. Lahtinen, T. Ala-Nissilä
+1186:oral: 0
+1186:session: 4
+1186:speaker: E. Kuusela
+1186:titletex: Sedimentation in a confined geometry with finite Reynolds number
+1186:titlehtm: Sedimentation in a confined geometry with finite Reynolds number
+1186:trim: 0 0 0 0
+1187:authors: K. Lahtonen, M. Lampimäki, M. Hirsimäki, M. Valden
+1187:oral: 0
+1187:session: 1
+1187:speaker: M. Lampimäki
+1187:titletex: STM study of Cu{100} and Ag/Cu{100} surface oxidation
+1187:titlehtm: STM study of Cu{100} and Ag/Cu{100} surface oxidation
+1187:trim: 85 85 85 87
+1188:authors: A. Kankainen, G.K. Vorobjev, S.A. Eliseev, W. Huang, J. Huikari, A. Jokinen, A. Nieminen, Yu.N. Novikov, H. Penttilä, A. Popov, S. Rinta-Antila, D.M. Seliverstov, J. Äystö
+1188:oral: 1
+1188:session: 7
+1188:speaker: A. Kankainen
+1188:titletex: Isomers of astrophysical interest in neutron-deficient nuclei at masses A = 81, 85 and 86
+1188:titlehtm: Isomers of astrophysical interest in neutron-deficient nuclei at masses A = 81, 85 and 86
+1188:trim: 0 0 0 0
+1189:authors: M. Sysi-Aho, J. Saramäki, K. Kaski
+1189:oral: 0
+1189:session: 1
+1189:speaker: M. Sysi-Aho
+1189:titletex: The minority game -- a physicist's approach to modelling bounded rationality and competition
+1189:titlehtm: The minority game &ndash; a physicist's approach to modelling bounded rationality and competition
+1189:trim: 85 85 85 88
+1190:authors: L.M. Stimson, M. Karttunen
+1190:oral: 0
+1190:session: 4
+1190:speaker: L.M. Stimson
+1190:titletex: Investigation of the effect of a general anaesthetic on lipid bilayers
+1190:titlehtm: Investigation of the effect of a general anaesthetic on lipid bilayers
+1190:trim: 0 0 0 0
+1191:authors: A. Kankainen, T. Eronen, S.P. Fox, U. Hager, J. Hakala, J. Huikari, D. Jenkins, A. Jokinen, S. Kopecky, I. Moore, A. Nieminen, H. Penttilä, S. Rinta-Antila, Y. Wang, J. Äystö
+1191:oral: 1
+1191:session: 7
+1191:speaker: A. Kankainen
+1191:titletex: Beta decay of $^{31}$Cl -- a study of excited states in $^{31}$S relevant for nucleosynthesis in ONe novae
+1191:titlehtm: Beta decay of <sup>31</sup>Cl &ndash; a study of excited states in <sup>31</sup>S relevant for nucleosynthesis in ONe novae
+1191:trim: 0 0 0 0
+1192:authors: M. Myllys, M. Kataja, J. Timonen, E. Rehn, T. Tarvainen, V. Kolehmainen, M. Vauhkonen, J. Kaipio
+1192:oral: 1
+1192:session: 9
+1192:speaker: M. Myllys
+1192:titletex: Three-dimensional imaging of multiphase flows using optical tomography
+1192:titlehtm: Three-dimensional imaging of multiphase flows using optical tomography
+1192:trim: 85 85 85 88
+1193:authors: I.G. Darby, D.T. Joss, J. Uusitalo, R. Page, K. Andgren, B. Cederwall, S. Eeckhaudt, T. Grahn, C. Gray-Jones, P.T. Greenlees, B. Hadinia, P. Jones, R. Julin, S. Juutinen, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, M. Sandzelius, C. Scholey, D. Seweryniak, J. Simpson, R. Wadsworth, D. Warner
+1193:oral: 1
+1193:session: 7
+1193:speaker: I.G. Darby
+1193:titletex: High-spin states in the N = 84 isotones $^{156}_{72}$Hf, $^{157}_{73}$Ta and $^{158}_{74}$W
+1193:titlehtm: High-spin states in the N = 84 isotones <sup>156</sup><sub>72</sub>Hf, <sup>157</sup><sub>73</sub>Ta and <sup>158</sup><sub>74</sub>W
+1193:trim: 85 85 77 88
+1194:authors: J. Pakarinen, S. Eeckhaudt, T. Enqvist, T. Grahn, P.T. Greenlees, P. Jones, R. Julin, S. Juutinen, H. Kettunen, M. Leino, A.-P. Leppänen, P. Nieminen, M. Nyman, P. Rahkila, C. Scholey, J. Uusitalo, R. Page, I.G. Darby, R. Wadsworth, F. Johnston-Theasby, P. Raddon
+1194:oral: 1
+1194:session: 7
+1194:speaker: J. Pakarinen
+1194:titletex: Probing the three shapes of $^{186}$Pb using in-beam $\gamma$-ray spectroscopy
+1194:titlehtm: Probing the three shapes of <sup>186</sup>Pb using in-beam &gamma;-ray spectroscopy
+1194:trim: 0 0 0 0
+1195:authors: M. Huttula, P. Kovala, S. Osmekhin, S. Urpelainen, S. Aksela
+1195:oral: 0
+1195:session: 9
+1195:speaker: M. Huttula
+1195:titletex: Design of a very high resolution electron energy loss apparatus
+1195:titlehtm: Design of a very high resolution electron energy loss apparatus
+1195:trim: 85 85 85 88
+1196:authors: L. Partanen, M. Huttula, H. Aksela, S. Aksela
+1196:oral: 0
+1196:session: 5
+1196:speaker: M. Huttula
+1196:titletex: Multielectron effects in the MNN Auger electron spectrum of xenon
+1196:titlehtm: Multielectron effects in the MNN Auger electron spectrum of xenon
+1196:trim: 85 85 85 80
+1197:authors: M. Alatalo, S. Jaatinen, P. Salo, K. Laasonen
+1197:oral: 1
+1197:session: 2
+1197:speaker: S. Jaatinen
+1197:titletex: Oxygen adsorption on Cu(100)
+1197:titlehtm: Oxygen adsorption on Cu(100)
+1197:trim: 0 0 0 0
+1198:authors: S. Väyrynen, T. Ahlgren, P. Pusa, E. Rauhala, J. Räisänen
+1198:oral: 0
+1198:session: 9
+1198:speaker: S. Väyrynen
+1198:titletex: Using position sensitive detector in crystal structure characterization of semiconductor materials by ion beams
+1198:titlehtm: Using position sensitive detector in crystal structure characterization of semiconductor materials by ion beams
+1198:trim: 85 85 95 38
+1199:authors: W.H. Trzaska, the Finnish ALICE Team
+1199:oral: 1
+1199:session: 7
+1199:speaker: W.H. Trzaska
+1199:titletex: ALICE physics on day one of LHC
+1199:titlehtm: ALICE physics on day one of LHC
+1199:trim: 85 85 85 88
+1200:authors: P. Rantakari, V. Kaajakari, J. Kiihamäki, M. Koskenvuori, I. Tittonen
+1200:oral: 1
+1200:session: 9
+1200:speaker: M. Koskenvuori
+1200:titletex: 13 MHz reference oscillator based on a single-crystal silicon microresonator
+1200:titlehtm: 13 MHz reference oscillator based on a single-crystal silicon microresonator
+1200:trim: 85 85 85 88
+1201:authors: A.S. Demyanova, Yu. Sobolev, S.A. Goncharov, S.E. Belov, V. Maslov, A.A. Ogloblin, Yu.E. Penionzhkevich, W.H. Trzaska, A.Yu. Tultsev, G.P. Tyurin, S.V. Khlebnikov
+1201:oral: 0
+1201:session: 7
+1201:speaker: W.H. Trzaska
+1201:titletex: $^{16}\rm{O}+{}^{40}\rm{Ca}$ elastic scattering
+1201:titlehtm: <sup>16</sup>O + <sup>40</sup>Ca elastic scattering
+1201:trim: 85 85 85 88
+1202:authors: M. Österberg, A. Wallin, I. Kassamakov, J. Aaltonen, E. Hæggström
+1202:oral: 0
+1202:session: 9
+1202:speaker: M. Österberg
+1202:titletex: Precise and versatile measurement of piezo movement using fiber-optic laser interferometry
+1202:titlehtm: Precise and versatile measurement of piezo movement using fiber-optic laser interferometry
+1202:trim: 85 85 85 88
+1203:authors: A. Caló, Z.F. Hu, E. Kukk, H. Aksela, S. Aksela
+1203:oral: 0
+1203:session: 5
+1203:speaker: A. Caló
+1203:titletex: Normal Auger spectra of iodine in gas phase XI (X=H, Li, Na, K, Rb) molecules
+1203:titlehtm: Normal Auger spectra of iodine in gas phase XI (X=H, Li, Na, K, Rb) molecules
+1203:trim: 85 85 85 88
+1204:authors: L. Miettinen, M. Myllys, J. Merikoski, J. Timonen
+1204:oral: 0
+1204:session: 1
+1204:speaker: L. Miettinen
+1204:titletex: Height-fluctuation distributions in combustion fronts
+1204:titlehtm: Height-fluctuation distributions in combustion fronts
+1204:trim: 0 0 0 0
+1205:authors: T. Karppinen, I. Kassamakov, J. Aaltonen, E. Hæggström
+1205:oral: 0
+1205:session: 9
+1205:speaker: T. Karppinen
+1205:titletex: Measuring paper wetting in the thickness direction of paper
+1205:titlehtm: Measuring paper wetting in the thickness direction of paper
+1205:trim: 85 85 85 88
+1206:authors: J. Meltaus, V.P. Plessky, S. Härmä, M.M. Salomaa
+1206:oral: 1
+1206:session: 9
+1206:speaker: J. Meltaus
+1206:titletex: Experimental results for a longitudinally coupled SAW resonator filter with 5 transducers
+1206:titlehtm: Experimental results for a longitudinally coupled SAW resonator filter with 5 transducers
+1206:trim: 85 85 85 88
+1207:authors: A. Caló, R. Sankari, J. Nikkinen, S. Osmekhin, H. Aksela, S. Aksela
+1207:oral: 0
+1207:session: 5
+1207:speaker: A. Caló
+1207:titletex: From atoms to ionic compounds: photoelectron spectrum of KBr
+1207:titlehtm: From atoms to ionic compounds: photoelectron spectrum of KBr
+1207:trim: 85 85 85 88
+1208:authors: J. Meltaus, P. Hämäläinen, V.P. Plessky, M.M. Salomaa
+1208:oral: 0
+1208:session: 9
+1208:speaker: J. Meltaus
+1208:titletex: Global optimization algorithms in the design of coupled SAW filters
+1208:titlehtm: Global optimization algorithms in the design of coupled SAW filters
+1208:trim: 85 85 85 88
+1209:authors: R. Sagaidak, S.P. Tretyakova, A.A. Ogloblin, S.V. Khlebnikov, W.H. Trzaska
+1209:oral: 0
+1209:session: 7
+1209:speaker: W.H. Trzaska
+1209:titletex: Nucleus-nucleus potentials from deep sub-barrier fusion
+1209:titlehtm: Nucleus-nucleus potentials from deep sub-barrier fusion
+1209:trim: 85 85 85 88
+1210:authors: R.R.E. Salomaa, A.A. Andreev, V.G. Bespalov, E.V. Ermolaeva
+1210:oral: 1
+1210:session: 9
+1210:speaker: R.R.E. Salomaa
+1210:titletex: Ultraintense laser pulse compression in parametric laser-plasma interactions
+1210:titlehtm: Ultraintense laser pulse compression in parametric laser-plasma interactions
+1210:trim: 85 85 85 88
+1211:authors: A.-P. Leppänen, J. Uusitalo, M. Leino, S. Eeckhaudt, T. Enqvist, K. Eskola, T. Grahn, F.P. Heßberger, P.T. Greenlees, P. Jones, R. Julin, S. Juutinen, H. Kettunen, P. Kuusiniemi, P. Nieminen, J. Pakarinen, J. Perkowski, P. Rahkila, C. Scholey, G. Sletten
+1211:oral: 0
+1211:session: 7
+1211:speaker: A.-P. Leppänen
+1211:titletex: Alpha decay study of $^{218}$U; a search for sub-shell closure at Z=92
+1211:titlehtm: Alpha decay study of <sup>218</sup>U; a search for sub-shell closure at Z=92
+1211:trim: 85 85 85 88
+1212:authors: M. Möttönen, S.M.M. Virtanen, M.M. Salomaa
+1212:oral: 0
+1212:session: 5
+1212:speaker: M. Möttönen
+1212:titletex: Collapse and revival of excitations in Bose-Einstein condensates
+1212:titlehtm: Collapse and revival of excitations in Bose-Einstein condensates
+1212:trim: 0 0 0 0
+1213:authors: S. Nevanpää, H. Kosonen, R.H.A. Ras, M. Torkkeli, R. Serimaa, M. Linder, O. Ikkala
+1213:oral: 1
+1213:session: 3
+1213:speaker: S. Nevanpää
+1213:titletex: Self-assembled polymer-protein complexes
+1213:titlehtm: Self-assembled polymer-protein complexes
+1213:trim: 85 85 85 80
+1214:authors: J. Huhtamäki, T. Isoshima
+1214:oral: 1
+1214:session: 5
+1214:speaker: J. Huhtamäki
+1214:titletex: Off-centered vortices in a Bose-Einstein condensate at zero and finite temperatures
+1214:titlehtm: Off-centered vortices in a Bose-Einstein condensate at zero and finite temperatures
+1214:trim: 0 0 0 0
+1215:authors: K. Alanko, I.G. Usoskin, K. Mursula
+1215:oral: 1
+1215:session: 8
+1215:speaker: K. Alanko
+1215:titletex: The role of drifts in the galactic cosmic ray transport
+1215:titlehtm: The role of drifts in the galactic cosmic ray transport
+1215:trim: 0 0 0 0
+1216:authors: L.J. Taskinen, J.M. Kivioja, J.T. Karvonen, I.J. Maasilta
+1216:oral: 1
+1216:session: 2
+1216:speaker: L.J. Taskinen
+1216:titletex: Direct measurement of the electron-phonon interaction with NIS junctions
+1216:titlehtm: Direct measurement of the electron-phonon interaction with NIS junctions
+1216:trim: 0 0 0 0
+1217:authors: W. Zhao, T. Róg, M. Patra, M. Karttunen
+1217:oral: 0
+1217:session: 4
+1217:speaker: W. Zhao
+1217:titletex: Molecular dynamics simulations of bacterial membranes
+1217:titlehtm: Molecular dynamics simulations of bacterial membranes
+1217:trim: 0 0 45 0
+1218:authors: S. von Alfthan, A. Sutton, K. Kaski
+1218:oral: 1
+1218:session: 1
+1218:speaker: S. von Alfthan
+1218:titletex: Structure and energetics of twist grain boundaries
+1218:titlehtm: Structure and energetics of twist grain boundaries
+1218:trim: 0 0 0 0
+1219:authors: J. Nikkinen, H. Aksela, S. Heinäsmäki, S. Fritzsche, R. Sankari, S. Aksela
+1219:oral: 0
+1219:session: 5
+1219:speaker: J. Nikkinen
+1219:titletex: Auger decay from strongly correlated inner-shell ionic states in alkaline earth metal atoms
+1219:titlehtm: Auger decay from strongly correlated inner-shell ionic states in alkaline earth metal atoms
+1219:trim: 85 85 85 88
+1220:authors: J. Envall, P. Kärhä, E. Ikonen
+1220:oral: 1
+1220:session: 6
+1220:speaker: J. Envall
+1220:titletex: Calibration of broadband ultraviolet detectors by measurement of spectral irradiance responsivity
+1220:titlehtm: Calibration of broadband ultraviolet detectors by measurement of spectral irradiance responsivity
+1220:trim: 108 85 108 83
+1221:authors: S. Fritzsche, J. Nikkinen, S. Heinäsmäki
+1221:oral: 0
+1221:session: 5
+1221:speaker: J. Nikkinen
+1221:titletex: RATIP -- a toolbox for studying the properties of atoms and ions
+1221:titlehtm: RATIP &ndash; a toolbox for studying the properties of atoms and ions
+1221:trim: 85 85 85 88
+1222:authors: A. Wallin, R. Tuma
+1222:oral: 0
+1222:session: 9
+1222:speaker: A. Wallin
+1222:titletex: Beam-stabilized high resolution optical tweezers
+1222:titlehtm: Beam-stabilized high resolution optical tweezers
+1222:trim: 85 85 85 88
+1223:authors: K. Kinnunen, M. Nevala, I.J. Maasilta, J. Penttilä, A. Virtanen, A. Luukanen, J. Hassel, M. Kiviranta, P. Helistö, H. Seppä
+1223:oral: 1
+1223:session: 9
+1223:speaker: K. Kinnunen
+1223:titletex: Development of superconducting air-bridge bolometers and ac-biased SQUID amplifier readout for detection of sub-mm radiation
+1223:titlehtm: Development of superconducting air-bridge bolometers and ac-biased SQUID amplifier readout for detection of sub-mm radiation
+1223:trim: 0 0 0 0
+1224:authors: J.-O. Joswig, L.O. Tunturivuori, R.M. Nieminen
+1224:oral: 0
+1224:session: 2
+1224:speaker: J.-O. Joswig
+1224:titletex: Time-dependent density-functional calculations of excitation spectra of small sodium clusters
+1224:titlehtm: Time-dependent density-functional calculations of excitation spectra of small sodium clusters
+1224:trim: 0 0 0 0
+1225:authors: T.G. Bäcklund, H.G.O. Sandberg, R. Österbacka, H. Stubb, M. Torkkeli, R. Serimaa
+1225:oral: 0
+1225:session: 3
+1225:speaker: T.G. Bäcklund
+1225:titletex: Method to orient thin semiconducting polymer films
+1225:titlehtm: Method to orient thin semiconducting polymer films
+1225:trim: 85 85 85 88
+1226:authors: A. Kärkkäinen, N. Tisnek, N. Pesonen, M. Suhonen, A. Oja, A. Manninen, H. Seppä
+1226:oral: 1
+1226:session: 9
+1226:speaker: A. Kärkkäinen
+1226:titletex: Towards MEMS based electrical metrology
+1226:titlehtm: Towards MEMS based electrical metrology
+1226:trim: 75 85 75 91
+1227:authors: J. Hietarinta, J. Jäykkä, P. Salo
+1227:oral: 1
+1227:session: 1
+1227:speaker: J. Jäykkä
+1227:titletex: On the existence of knotted vortices in two-gap superconductors
+1227:titlehtm: On the existence of knotted vortices in two-gap superconductors
+1227:trim: 0 0 0 0
+1228:authors: T.O. Pennanen, J. Vaara
+1228:oral: 0
+1228:session: 5
+1228:speaker: T.O. Pennanen
+1228:titletex: Quantum chemical calculation of NMR chemical shifts in open-shell systems
+1228:titlehtm: Quantum chemical calculation of NMR chemical shifts in open-shell systems
+1228:trim: 0 0 0 0
+1229:authors: O. Pulkkinen, J. Merikoski
+1229:oral: 0
+1229:session: 1
+1229:speaker: O. Pulkkinen
+1229:titletex: Phase transitions in a Markovian model for bipartite graphs
+1229:titlehtm: Phase transitions in a Markovian model for bipartite graphs
+1229:trim: 0 0 0 0
+1230:authors: M. Vainio, M. Merimaa, K. Nyholm
+1230:oral: 0
+1230:session: 6
+1230:speaker: M. Vainio
+1230:titletex: Iodine spectrometer for absolute frequency determination of iodine hyperfine components near 633 nm
+1230:titlehtm: Iodine spectrometer for absolute frequency determination of iodine hyperfine components near 633 nm
+1230:trim: 85 85 85 88
+1231:authors: M. Heikelä, I. Vattulainen, M.T. Hyvönen
+1231:oral: 0
+1231:session: 4
+1231:speaker: M. Heikelä
+1231:titletex: Molecular dynamics model of cholesteryl oleates, a constituent of lipoprotein core
+1231:titlehtm: Molecular dynamics model of cholesteryl oleates, a constituent of lipoprotein core
+1231:trim: 0 0 0 0
+1232:authors: I. Lassila, T. Karppinen, E. Hæggström
+1232:oral: 0
+1232:session: 9
+1232:speaker: I. Lassila
+1232:titletex: Ultrasonic shear wave measurement of pigment coating layer formation
+1232:titlehtm: Ultrasonic shear wave measurement of pigment coating layer formation
+1232:trim: 85 85 85 88
+1233:authors: J. Katainen, M. Paajanen, O.H. Pakarinen, J. Lahtinen, A.S. Foster
+1233:oral: 0
+1233:session: 9
+1233:speaker: J. Katainen
+1233:titletex: Adhesion of small particles: van der Waals dominated systems
+1233:titlehtm: Adhesion of small particles: van der Waals dominated systems
+1233:trim: 0 0 0 0
+1234:authors: O. Koskelo, P. Pusa, S. Väyrynen, I. Riihimäki, J. Räisänen
+1234:oral: 0
+1234:session: 2
+1234:speaker: O. Koskelo
+1234:titletex: Be diffusion in SiGe
+1234:titlehtm: Be diffusion in SiGe
+1234:trim: 85 85 85 88
+1235:authors: I.J. Maasilta, K. Kinnunen, A.K. Nuottajärvi, T.I. Suppula
+1235:oral: 0
+1235:session: 9
+1235:speaker: I.J. Maasilta
+1235:titletex: Optimizing the operation of transition edge sensors
+1235:titlehtm: Optimizing the operation of transition edge sensors
+1235:trim: 0 0 0 0
+1236:authors: P. Suomalainen, M. Meretoja, R. Punkkinen
+1236:oral: 0
+1236:session: 9
+1236:speaker: P. Suomalainen
+1236:titletex: Measuring the characteristics of VDMOS transistors as a charge amplifier
+1236:titlehtm: Measuring the characteristics of VDMOS transistors as a charge amplifier
+1236:trim: 85 85 85 88
+1237:authors: J.-P. Onnela, J. Saramäki, K. Kaski, J. Kertész, G. Szabó, A.-L. Barabási
+1237:oral: 1
+1237:session: 1
+1237:speaker: J.-P. Onnela
+1237:titletex: The complex network of social relations
+1237:titlehtm: The complex network of social relations
+1237:trim: 0 0 0 0
+1238:authors: M. Nyman, S. Eeckhaudt, T. Grahn, P.T. Greenlees, P. Jones, R. Julin, S. Juutinen, H. Kettunen, M. Leino, A.-P. Leppänen, J. Pakarinen, P. Rahkila, C. Scholey, J. Uusitalo, A.N. Andreyev, R. Page, E. Bouchez, A. Chatillon, A. Görgen, W. Korten, Y. Le Coz, Ch. Theisen, J. Wilson, M. Rejmund, P. Nieminen
+1238:oral: 1
+1238:session: 7
+1238:speaker: M. Nyman
+1238:titletex: Gamma-ray spectroscopy of $^{191}$Bi
+1238:titlehtm: Gamma-ray spectroscopy of <sup>191</sup>Bi
+1238:trim: 85 85 85 88
+1239:authors: J. Laivola, J. Torsti, L. Kocharov
+1239:oral: 0
+1239:session: 8
+1239:speaker: J. Laivola
+1239:titletex: ERNE/HED measurements of $^{3}$He enhancement in high-energy solar events
+1239:titlehtm: ERNE/HED measurements of <sup>3</sup>He enhancement in high-energy solar events
+1239:trim: 0 0 0 0
+1240:authors: J. Hakala, T. Eronen, U. Hager, A. Jokinen, V. Kolhinen, S. Kopecky, J. Szerypo, J. Äystö
+1240:oral: 0
+1240:session: 9
+1240:speaker: J. Hakala
+1240:titletex: IGISOL penning trap control system
+1240:titlehtm: IGISOL penning trap control system
+1240:trim: 0 0 0 0
+1241:authors: A.E.P. Mattila, T. Enqvist, V. Föhr, J. Joutsenvaara, T. Jämsén, M. Lehtola, J. Narkilahti, S. Nurmenniemi, J. Peltoniemi
+1241:oral: 0
+1241:session: 7
+1241:speaker: A.E.P. Mattila
+1241:titletex: Movable underground detector
+1241:titlehtm: Movable underground detector
+1241:trim: 0 0 0 0
+1242:authors: S. Mattila, J.A. Leiro, M. Heinonen, T. Laiho
+1242:oral: 0
+1242:session: 1
+1242:speaker: S. Mattila
+1242:titletex: Photoemission study of MoS$_2$
+1242:titlehtm: Photoemission study of MoS<sub>2</sub>
+1242:trim: 85 85 85 87
+1243:authors: M. Tyunina, J. Levoska
+1243:oral: 1
+1243:session: 1
+1243:speaker: M. Tyunina
+1243:titletex: New mechanism of dielectric nonlinearity in perovskite ferroelectrics
+1243:titlehtm: New mechanism of dielectric nonlinearity in perovskite ferroelectrics
+1243:trim: 85 85 85 87
+1245:authors: J.J. Hyvönen, J. Saramäki, T.S. Evans, K. Kaski
+1245:oral: 0
+1245:session: 1
+1245:speaker: J.J. Hyvönen
+1245:titletex: Scale-free network growth by random walkers
+1245:titlehtm: Scale-free network growth by random walkers
+1245:trim: 0 0 0 0
+1246:authors: H. Nykänen, M. Saarela, T. Taipaleenmäki
+1246:oral: 0
+1246:session: 2
+1246:speaker: H. Nykänen
+1246:titletex: Clustering of charged quantum fluid mixtures
+1246:titlehtm: Clustering of charged quantum fluid mixtures
+1246:trim: 85 85 85 88
+1247:authors: S. Galambosi, J.A. Soininen, A. Mattila, K. Hämäläinen
+1247:oral: 0
+1247:session: 2
+1247:speaker: S. Galambosi
+1247:titletex: Inelastic x-ray scattering study of plasmons in MgB$_2$
+1247:titlehtm: Inelastic x-ray scattering study of plasmons in MgB<sub>2</sub>
+1247:trim: 0 0 0 0
+1248:authors: P. Keränen, J. Maalampi, M. Myyryläinen, J. Riittinen
+1248:oral: 1
+1248:session: 8
+1248:speaker: J. Riittinen
+1248:titletex: Matter effects of nearly degenerate sterile neutrinos in supernovae
+1248:titlehtm: Matter effects of nearly degenerate sterile neutrinos in supernovae
+1248:trim: 0 0 0 0
+1249:authors: M. Vilkman, H. Kosonen, A. Nykänen, J. Ruokolainen, M. Torkkeli, R. Serimaa, O. Ikkala
+1249:oral: 1
+1249:session: 3
+1249:speaker: M. Vilkman
+1249:titletex: Temperature-switchable electronic conductivity based on self-assembled complexes of polyaniline
+1249:titlehtm: Temperature-switchable electronic conductivity based on self-assembled complexes of polyaniline
+1249:trim: 85 85 85 88
+1250:authors: A. Pivrikas, R. Österbacka, G. Ju\v{s}ka, A. Mozer, M. Scharber, K. Arlauskas, N.S. Sariciftci, H. Stubb
+1250:oral: 1
+1250:session: 3
+1250:speaker: A. Pivrikas
+1250:titletex: Charge transport and recombination in bulk heterojunction solar cells
+1250:titlehtm: Charge transport and recombination in bulk heterojunction solar cells
+1250:trim: 85 85 85 87
+1251:authors: H. Kosonen, A. Nykänen, S. Valkama, G. ten Brinke, J. Ruokolainen, O. Ikkala
+1251:oral: 0
+1251:session: 3
+1251:speaker: H. Kosonen
+1251:titletex: Functional mesoporous structures based on controlled pyrolysis of block copolymer templates
+1251:titlehtm: Functional mesoporous structures based on controlled pyrolysis of block copolymer templates
+1251:trim: 85 85 85 88
+1252:authors: M. Leppänen, A. Wallin, E. Hæggström
+1252:oral: 0
+1252:session: 9
+1252:speaker: M. Leppänen
+1252:titletex: Measuring in-plane shear wave propagation speed in transparencies
+1252:titlehtm: Measuring in-plane shear wave propagation speed in transparencies
+1252:trim: 85 85 85 88
+1253:authors: S. Majumdar, H.S. Majumdar, O. Ikkala, R. Laiho, H. Stubb, R. Österbacka
+1253:oral: 0
+1253:session: 3
+1253:speaker: S. Majumdar
+1253:titletex: Organic spin valves: towards supramolecular devices
+1253:titlehtm: Organic spin valves: towards supramolecular devices
+1253:trim: 85 85 85 88
+1254:authors: V. Honkkila
+1254:oral: 0
+1254:session: 8
+1254:speaker: V. Honkkila
+1254:titletex: Mathematics of MHD simulations
+1254:titlehtm: Mathematics of MHD simulations
+1254:trim: 0 0 0 0
+1255:authors: L. Laurson, M.J. Alava
+1255:oral: 0
+1255:session: 1
+1255:speaker: L. Laurson
+1255:titletex: Local waiting times in critical systems
+1255:titlehtm: Local waiting times in critical systems
+1255:trim: 0 0 0 0
+1256:authors: T. Mäkelä, T. Haatainen, J. Ahopelto
+1256:oral: 0
+1256:session: 3
+1256:speaker: T. Mäkelä
+1256:titletex: Lithographycally fabricated submicron structures in inherently conductive polyaniline at room temperature
+1256:titlehtm: Lithographycally fabricated submicron structures in inherently conductive polyaniline at room temperature
+1256:trim: 85 85 85 88
+1257:authors: T. Setälä, K. Lindfors, M. Kaivola, J. Tervo, A.T. Friberg
+1257:oral: 0
+1257:session: 6
+1257:speaker: T. Setälä
+1257:titletex: Partial polarization in three-dimensional optical fields
+1257:titlehtm: Partial polarization in three-dimensional optical fields
+1257:trim: 85 85 120 82
+1258:authors: K. Nygård, M. Hakala, S. Manninen, S. Huotari, T. Buslaps, A. Nilsson, L.G.M. Pettersson, K. Hämäläinen
+1258:oral: 1
+1258:session: 5
+1258:speaker: K. Nygård
+1258:titletex: Temperature dependence of hydrogen bonds in liquid water
+1258:titlehtm: Temperature dependence of hydrogen bonds in liquid water
+1258:trim: 0 0 0 0
+1259:authors: J. Virtanen, K. Muinonen, M. Granvik, T. Laakso
+1259:oral: 0
+1259:session: 8
+1259:speaker: J. Virtanen
+1259:titletex: Asteroid orbit computation using statistical techniques
+1259:titlehtm: Asteroid orbit computation using statistical techniques
+1259:trim: 0 0 0 0
+1260:authors: T. Ahlgren, K. Heinola, E. Vainonen-Ahlgren, J. Likonen, A. Hallen, J. Keinonen
+1260:oral: 1
+1260:session: 9
+1260:speaker: T. Ahlgren
+1260:titletex: Deuterium out-diffusion from W
+1260:titlehtm: Deuterium out-diffusion from W
+1260:trim: 0 0 0 0
+1261:authors: A. Heikkinen, S. Lehti
+1261:oral: 0
+1261:session: 7
+1261:speaker: A. Heikkinen
+1261:titletex: Tagging b jets in pp$\rightarrow\rm b\bar{\rm b}$H$_{\rm SUSY}$, H$_{\rm SUSY}\rightarrow\tau\tau$ in CMS with multi-layer perceptrons
+1261:titlehtm: Tagging b jets in pp &rarr; b<span style="text-decoration: overline">b</span>H<sub>SUSY</sub>, H<sub>SUSY</sub> &rarr; &tau;&tau; in CMS with multi-layer perceptrons
+1261:trim: 0 0 0 0
+1262:authors: J. Kalliopuska, M. Eräluoto, S. Eränen, J. Härkönen, K. Kurvinen, I. Luusua, R. Orava, T. Virolainen
+1262:oral: 1
+1262:session: 7
+1262:speaker: J. Kalliopuska
+1262:titletex: 3D semiconductor radiation detectors for particle physics applications
+1262:titlehtm: 3D semiconductor radiation detectors for particle physics applications
+1262:trim: 85 85 85 68
+1263:authors: G.N. Knyazheva, A. Chizhov, M. Itkis, S.V. Khlebnikov, E. Kozulin, V. Lyapin, V. Rubchenya, W.H. Trzaska, V. Voskressensky
+1263:oral: 1
+1263:session: 7
+1263:speaker: G.N. Knyazheva
+1263:titletex: The influence of entrance channel on reaction dymanics of compound nucleus $^{250}$No
+1263:titlehtm: The influence of entrance channel on reaction dymanics of compound nucleus <sup>250</sup>No
+1263:trim: 85 85 85 88
+1264:authors: E. Tuovinen, J. Härkönen, P. Luukka, Z. Li, E. Verbitskaya, V. Eremin
+1264:oral: 1
+1264:session: 9
+1264:speaker: E. Tuovinen
+1264:titletex: Thermal donor generation in high resistivity Czochralski silicon
+1264:titlehtm: Thermal donor generation in high resistivity Czochralski silicon
+1264:trim: 85 85 85 73
+1265:authors: B. Tordoff, J. Billowes, P. Campbell, T. Kessler, B. Marsh, I. Moore, A. Nieminen, A. Popov, K. Wendt, J. Äystö
+1265:oral: 1
+1265:session: 7
+1265:speaker: B. Tordoff
+1265:titletex: Development and testing of the FURIOS laser ion source at the IGISOL
+1265:titlehtm: Development and testing of the FURIOS laser ion source at the IGISOL
+1265:trim: 88 85 85 73
+1266:authors: L.O. Tunturivuori, J.-O. Joswig, R.M. Nieminen
+1266:oral: 0
+1266:session: 2
+1266:speaker: L.O. Tunturivuori
+1266:titletex: Optical properties of small aluminium clusters
+1266:titlehtm: Optical properties of small aluminium clusters
+1266:trim: 0 0 0 0
+1268:authors: G.N. Knyazheva, S. Beghini, B.R. Behera, L. Corradi, A. Chizhov, E. Fioretto, A. Gadea, M. Itkis, N. Kondratiev, E. Kozulin, A. Latina, G. Montagnoli, R. Sagaidak, F. Scarlassara, A.M. Stefaini, S. Szilner, W.H. Trzaska, M. Trotta, V. Voskressensky
+1268:oral: 0
+1268:session: 7
+1268:speaker: G.N. Knyazheva
+1268:titletex: $^{40,48}\rm{Ca}+{}^{144,154}\rm{Sm}$: Influence of deformation and shell
+1268:titlehtm: <sup>40,48</sup>Ca + <sup>144,154</sup>Sm: Influence of deformation and shell
+1268:trim: 85 85 85 88
+1269:authors: S. Eeckhaudt, P.T. Greenlees, N. Amzal, J.E. Bastin, E. Bouchez, B. Bruyneel, P.A. Butler, A. Chatillon, I.G. Darby, K. Eskola, J. Gerl, T. Grahn, C. Gray-Jones, A. Görgen, R.-D. Herzberg, F.P. Heßberger, R.D. Humphreys, A. Hürstel, P.J.C. Ikin, G.D. Jones, P. Jones, R. Julin, S. Juutinen, H. Kettunen, T.L. Khoo, W. Korten, P. Kuusiniemi, Y. Le Coz, M. Leino, A.-P. Leppänen, S. Moon, M. Nyman, P. Nieminen, T. Page, J. Pakarinen, J. Perkowski, A. Pritchard, P. Rahkila, P. Reiter, M. Sandzelius, J. Sarén, C. Scholey, Ch. Theisen, J. Uusitalo, K. van de Vel, A. Wiens, J. Wilson, H.J. Wollersheim
+1269:oral: 1
+1269:session: 7
+1269:speaker: S. Eeckhaudt
+1269:titletex: In-beam gamma-ray spectroscopy of $^{253,254}$No
+1269:titlehtm: In-beam gamma-ray spectroscopy of <sup>253,254</sup>No
+1269:trim: 0 0 0 0
+1270:authors: K. Heinola, T. Ahlgren, E. Vainonen-Ahlgren, J. Likonen, J. Keinonen
+1270:oral: 0
+1270:session: 9
+1270:speaker: K. Heinola
+1270:titletex: Deuterium measurement by D($^3$He,p)$^4$He reaction in fusion materials
+1270:titlehtm: Deuterium measurement by D(<sup>3</sup>He,p)<sup>4</sup>He reaction in fusion materials
+1270:trim: 0 0 0 0
+1271:authors: G.N. Knyazheva, S.V. Khlebnikov, E. Kozulin, T.E. Kuzmina, V. Lyapin, M. Mutterer, W.H. Trzaska
+1271:oral: 0
+1271:session: 7
+1271:speaker: G.N. Knyazheva
+1271:titletex: Slowing down of fission fragments in thin layers
+1271:titlehtm: Slowing down of fission fragments in thin layers
+1271:trim: 85 85 85 88
+1272:authors: J. Jalkanen, O. Trushin, E. Granato, S.C. Ying, T. Ala-Nissilä
+1272:oral: 0
+1272:session: 1
+1272:speaker: J. Jalkanen
+1272:titletex: Equilibrium shape and dislocation nucleation in strained epitaxial nanoislands
+1272:titlehtm: Equilibrium shape and dislocation nucleation in strained epitaxial nanoislands
+1272:trim: 0 0 0 0
+1273:authors: K. Pennanen, V. Ranki, K. Saarinen
+1273:oral: 0
+1273:session: 1
+1273:speaker: K. Pennanen
+1273:titletex: Observation of thermal vacancies in highly n-type Si by positron annihilation spectroscopy
+1273:titlehtm: Observation of thermal vacancies in highly n-type Si by positron annihilation spectroscopy
+1273:trim: 85 85 85 88
+1274:authors: M. Matsubara, C. Massobrio
+1274:oral: 1
+1274:session: 3
+1274:speaker: M. Matsubara
+1274:titletex: First principles study of highly silicon doped heterofullerenes
+1274:titlehtm: First principles study of highly silicon doped heterofullerenes
+1274:trim: 0 0 0 0
+1275:authors: G.N. Knyazheva, V. Lyapin, A. Munoz-Martin, J. Perkowski, T. Malkiewicz, W.H. Trzaska
+1275:oral: 0
+1275:session: 7
+1275:speaker: T. Malkiewicz
+1275:titletex: Slowing down of heavy ions in various absorbers
+1275:titlehtm: Slowing down of heavy ions in various absorbers
+1275:trim: 85 85 85 88
+1276:authors: T. Laurila, H. Cattaneo, V. Koskinen, J. Kauppinen, M. Heikkinen, P. Karioja, R. Hernberg
+1276:oral: 1
+1276:session: 6
+1276:speaker: T. Laurila
+1276:titletex: Diode laser based photoacoustic spectroscopy using novel micromechanical cantilever detection
+1276:titlehtm: Diode laser based photoacoustic spectroscopy using novel micromechanical cantilever detection
+1276:trim: 85 85 85 88
+1277:authors: J. Torppa, K. Aksnes, Z. Dai, T. Grav, G. Hahn, T. Laakso, C-I. Lagerkvist, K. Muinonen, J. Näränen, H. Rickman, J. Virtanen
+1277:oral: 1
+1277:session: 8
+1277:speaker: J. Torppa
+1277:titletex: Shapes, spins, and orbits of potentially hazardous near-earth asteroids
+1277:titlehtm: Shapes, spins, and orbits of potentially hazardous near-earth asteroids
+1277:trim: 85 85 100 38
+1278:authors: O. Lehtonen, D. Sundholm
+1278:oral: 0
+1278:session: 5
+1278:speaker: O. Lehtonen
+1278:titletex: Density functional studies of excited states of Si$_{29}$H$_{36}$ cluster
+1278:titlehtm: Density functional studies of excited states of Si<sub>29</sub>H<sub>36</sub> cluster
+1278:trim: 0 0 0 0
+1280:authors: Z. Wei, T. Laitinen, B. Smarsly, O. Ikkala, C.F.J. Faul
+1280:oral: 1
+1280:session: 3
+1280:speaker: T. Laitinen
+1280:titletex: Electrical conductivity transitions and self-assembly in conjugated oligoaniline-surfactant complexes
+1280:titlehtm: Electrical conductivity transitions and self-assembly in conjugated oligoaniline-surfactant complexes
+1280:trim: 85 85 85 88
+1281:authors: M. Zgirski, K.-P. Riikonen, T. Holmqvist, V. Touboltsev, K. Arutyunov
+1281:oral: 1
+1281:session: 2
+1281:speaker: M. Zgirski
+1281:titletex: Quantum tunneling in 1D aluminum nanowires
+1281:titlehtm: Quantum tunneling in 1D aluminum nanowires
+1281:trim: 85 85 85 80
+1282:authors: H.S. Majumdar, J.K. Baral, O. Ikkala, H. Stubb, R. Österbacka
+1282:oral: 0
+1282:session: 3
+1282:speaker: J.K. Baral
+1282:titletex: Switching and associated negative-differential-resistance effect in fullerene (C60) based devices
+1282:titlehtm: Switching and associated negative-differential-resistance effect in fullerene (C60) based devices
+1282:trim: 85 85 85 88
+1283:authors: A. Shevchenko, K. Lindfors, S.C. Buchter, M. Kaivola
+1283:oral: 0
+1283:session: 6
+1283:speaker: A. Shevchenko
+1283:titletex: Evanescent-wave pumped cylindrical microcavity laser
+1283:titlehtm: Evanescent-wave pumped cylindrical microcavity laser
+1283:trim: 85 85 85 88
+1285:authors: J. Kalliopuska, S. Eränen, R. Orava
+1285:oral: 0
+1285:session: 7
+1285:speaker: J. Kalliopuska
+1285:titletex: 3D simulations of 3D silicon radiation detector structures
+1285:titlehtm: 3D simulations of 3D silicon radiation detector structures
+1285:trim: 85 85 85 88
+1286:authors: H. Suhonen, M. Fernández, P. Suortti
+1286:oral: 0
+1286:session: 10
+1286:speaker: H. Suhonen
+1286:titletex: Small-angle x-ray scattering simulation
+1286:titlehtm: Small-angle x-ray scattering simulation
+1286:trim: 0 0 0 0
+1287:authors: I. Jaakola, J. Levoska, M. Tyunina
+1287:oral: 0
+1287:session: 3
+1287:speaker: I. Jaakola
+1287:titletex: Multilayers and superlattices of perovskite ferroelectric Ba$_{1-x}$Sr$_x$TiO$_3$
+1287:titlehtm: Multilayers and superlattices of perovskite ferroelectric Ba<sub>1-<var>x</var></sub>Sr<sub><var>x</var></sub>TiO<sub>3</sub>
+1287:trim: 85 85 85 88
+1288:authors: M. Patra, E. Salonen, E. Terama, I. Vattulainen, R. Faller, B.W. Lee, J.M. Holopainen, M. Karttunen
+1288:oral: 0
+1288:session: 4
+1288:speaker: M. Karttunen
+1288:titletex: The interaction of ethanol and methanol with biomembranes
+1288:titlehtm: The interaction of ethanol and methanol with biomembranes
+1288:trim: 0 0 0 0
+1289:authors: J. Fonsen, K. Roth, V. Koskinen, I. Tittonen, J. Kauppinen
+1289:oral: 0
+1289:session: 6
+1289:speaker: J. Fonsen
+1289:titletex: Interferometric measurement of the movement of the silicon cantilever using piezo actuator
+1289:titlehtm: Interferometric measurement of the movement of the silicon cantilever using piezo actuator
+1289:trim: 85 85 85 88
+1290:authors: H. Aarnio, M. Westerling, R. Österbacka, M. Svensson, M.R. Andersson, T. Pascher, J. Pan, V. Sundström, H. Stubb
+1290:oral: 0
+1290:session: 3
+1290:speaker: H. Aarnio
+1290:titletex: Recombination studies in a polyfluorene copolymer for photovoltaic applications
+1290:titlehtm: Recombination studies in a polyfluorene copolymer for photovoltaic applications
+1290:trim: 85 85 85 88
+1291:authors: T.E. Nieminen, J.M. Kivioja, M. Meschke, J.P. Pekola
+1291:oral: 1
+1291:session: 2
+1291:speaker: T.E. Nieminen
+1291:titletex: Mesoscopic Josephson junctions as threshold detectors of electrical current and noise
+1291:titlehtm: Mesoscopic Josephson junctions as threshold detectors of electrical current and noise
+1291:trim: 85 85 85 87
+1292:authors: M. Rummukainen, I. Makkonen, V. Ranki, M.J. Puska, K. Saarinen
+1292:oral: 1
+1292:session: 1
+1292:speaker: M. Rummukainen
+1292:titletex: Vacancy-impurity complexes in highly Sb-doped Si grown by molecular beam epitaxy
+1292:titlehtm: Vacancy-impurity complexes in highly Sb-doped Si grown by molecular beam epitaxy
+1292:trim: 85 85 85 88
+1293:authors: J. Järvinen, J. Ahokas, S. Vasilyev
+1293:oral: 0
+1293:session: 9
+1293:speaker: J. Ahokas
+1293:titletex: Use of dispersion versus absorption plots in ESR spectrum analysis
+1293:titlehtm: Use of dispersion versus absorption plots in ESR spectrum analysis
+1293:trim: 0 0 0 0
+1294:authors: P. Kantola, J. Vuorinen, S. Jaatinen, K. Habermehl-Cwirzen, P. Salo, M. Lindroos, J. Lahtinen
+1294:oral: 0
+1294:session: 1
+1294:speaker: P. Kantola
+1294:titletex: Adsorption of S and CO on Co(0001)
+1294:titlehtm: Adsorption of S and CO on Co(0001)
+1294:trim: 85 85 85 87
+1295:authors: A. Puisto, H. Pitkänen, K. Laasonen, A.S. Foster, M. Alatalo
+1295:oral: 1
+1295:session: 1
+1295:speaker: H. Pitkänen
+1295:titletex: O$_2$ adsorption on clean and oxygen precovered Cu(001)
+1295:titlehtm: O<sub>2</sub> adsorption on clean and oxygen precovered Cu(001)
+1295:trim: 0 0 0 0
+1296:authors: O. Hahtela, I. Tittonen
+1296:oral: 1
+1296:session: 6
+1296:speaker: O. Hahtela
+1296:titletex: Optical actuation of a macroscopic mechanical oscillator
+1296:titlehtm: Optical actuation of a macroscopic mechanical oscillator
+1296:trim: 85 85 85 88
+1297:authors: Y. Schenkel, M. Kortesniemi, S. Savolainen
+1297:oral: 0
+1297:session: 10
+1297:speaker: Y. Schenkel
+1297:titletex: Introduction to dosimetry and image quality in mammography
+1297:titlehtm: Introduction to dosimetry and image quality in mammography
+1297:trim: 85 85 85 88
+1298:authors: O. Hahtela, N. Chekurov, I. Tittonen
+1298:oral: 0
+1298:session: 9
+1298:speaker: O. Hahtela
+1298:titletex: Linear out-of-plane mode high-Q mechanical silicon oscillator
+1298:titlehtm: Linear out-of-plane mode high-Q mechanical silicon oscillator
+1298:trim: 85 85 85 88
+1300:authors: M. Lahti, A. Puisto, M. Alatalo
+1300:oral: 0
+1300:session: 5
+1300:speaker: M. Lahti
+1300:titletex: {\it Ab initio} study of dissociation of O$_2$ on the clean and sulfur-covered Pd(100) surface
+1300:titlehtm: <i>Ab initio</i> study of dissociation of O<sub>2</sub> on the clean and sulfur-covered Pd(100) surface
+1300:trim: 0 0 0 0
+1301:authors: S. Kawai, E. Keski-Vakkuri, R.G. Leigh, S. Nowling
+1301:oral: 1
+1301:session: 7
+1301:speaker: E. Keski-Vakkuri
+1301:titletex: Fractional S-branes
+1301:titlehtm: Fractional S-branes
+1301:trim: 0 0 0 0
+1302:authors: K. Kisko, M. Torkkeli, G. Szilvay, E. Vuorimaa, H. Lemmetyinen, M. Linder, R. Serimaa
+1302:oral: 0
+1302:session: 4
+1302:speaker: K. Kisko
+1302:titletex: Self-assembly of hydrophobin proteins on air-water interface
+1302:titlehtm: Self-assembly of hydrophobin proteins on air-water interface
+1302:trim: 0 0 0 0
+1303:authors: B. Marsh, D. Federov, V.N. Fedosseev, U. Köster, E. Tengborn, the ISOLDE collaboration
+1303:oral: 0
+1303:session: 9
+1303:speaker: B. Marsh
+1303:titletex: An overview of the resonance ionization laser ion source (RILIS) at the on-line isotope separator, ISOLDE (CERN)
+1303:titlehtm: An overview of the resonance ionization laser ion source (RILIS) at the on-line isotope separator, ISOLDE (CERN)
+1303:trim: 85 85 85 88
+1304:authors: J. Särkkä, M.P. Stenberg
+1304:oral: 0
+1304:session: 2
+1304:speaker: J. Särkkä
+1304:titletex: Thermopower in mesoscopic proximity structures
+1304:titlehtm: Thermopower in mesoscopic proximity structures
+1304:trim: 0 0 0 0
+1305:authors: M. Meschke, A.M. Savin, J.P. Pekola
+1305:oral: 1
+1305:session: 2
+1305:speaker: M. Meschke
+1305:titletex: Thermal design for Rapid Single Flux Quantum devices operating in the milli-Kelvin temperature range
+1305:titlehtm: Thermal design for Rapid Single Flux Quantum devices operating in the milli-Kelvin temperature range
+1305:trim: 90 85 87 75
+1306:authors: J. Salo, S. Stenholm
+1306:oral: 1
+1306:session: 5
+1306:speaker: J. Salo
+1306:titletex: Irreversibility in quantum physics: different parametric regimes
+1306:titlehtm: Irreversibility in quantum physics: different parametric regimes
+1306:trim: 0 0 0 0
+1307:authors: R.E. Perälä, M. Kuzmin, P. Laukkanen, I.J. Väyrynen
+1307:oral: 0
+1307:session: 1
+1307:speaker: R.E. Perälä
+1307:titletex: Si(100)$2×3$-Eu surface phase: Atomic geometry and electronic structure
+1307:titlehtm: Si(100)2×3-Eu surface phase: Atomic geometry and electronic structure
+1307:trim: 85 85 85 88
+1308:authors: T. Asikainen, K. Mursula, R. Kerttula, R. Friedel, D. Baker, F. Soeraas, J.F. Fennell, J.B. Blake
+1308:oral: 1
+1308:session: 8
+1308:speaker: T. Asikainen
+1308:titletex: Dynamics of energetic particles during the major magnetic storm of 31 March, 2001
+1308:titlehtm: Dynamics of energetic particles during the major magnetic storm of 31 March, 2001
+1308:trim: 85 85 85 88
+1309:authors: M. Meretoja, H-P. Hedman, L. Heikkilä, R. Punkkinen
+1309:oral: 0
+1309:session: 6
+1309:speaker: M. Meretoja
+1309:titletex: Visible electroluminescence from Si nanoparticles in Si/SiO$_2$ microdevices on patterned silicon wafers
+1309:titlehtm: Visible electroluminescence from Si nanoparticles in Si/SiO<sub>2</sub> microdevices on patterned silicon wafers
+1309:trim: 85 85 85 88
+1310:authors: L. Dong, M. Karttunen, K.W. Yu
+1310:oral: 0
+1310:session: 1
+1310:speaker: M. Karttunen
+1310:titletex: Spectral representation of the effective dielectric constant of graded composites
+1310:titlehtm: Spectral representation of the effective dielectric constant of graded composites
+1310:trim: 0 0 0 0
+1311:authors: M. Westerling, C. Vijila, R. Österbacka, H. Stubb
+1311:oral: 0
+1311:session: 2
+1311:speaker: M. Westerling
+1311:titletex: Dispersive and non-dispersive recombination of long-lived photoexcitations in disordered organic solids
+1311:titlehtm: Dispersive and non-dispersive recombination of long-lived photoexcitations in disordered organic solids
+1311:trim: 85 85 85 88
+1312:authors: T. Fordell, S. Valling, Å.M. Lindberg
+1312:oral: 0
+1312:session: 6
+1312:speaker: T. Fordell
+1312:titletex: Mapping the dynamics of optically injected class B lasers
+1312:titlehtm: Mapping the dynamics of optically injected class B lasers
+1312:trim: 0 0 0 0
+1313:authors: J. Sarén, J. Uusitalo, M. Leino, S. Eeckhaudt, P.T. Greenlees, P. Jones, R. Julin, S. Juutinen, A.-P. Leppänen, P. Rahkila, C. Scholey
+1313:oral: 0
+1313:session: 7
+1313:speaker: J. Sarén
+1313:titletex: The new JYFL electromagnetic mass separator
+1313:titlehtm: The new JYFL electromagnetic mass separator
+1313:trim: 0 0 0 0
+1314:authors: M. Peura, I. Grotkopp, H. Lemke, A. Vikkula, M. Müller, J. Laine, R. Serimaa
+1314:oral: 1
+1314:session: 9
+1314:speaker: M. Peura
+1314:titletex: The role of the amorphous lignin-hemicellulose matrix on the mechanical and structural properties of wood
+1314:titlehtm: The role of the amorphous lignin-hemicellulose matrix on the mechanical and structural properties of wood
+1314:trim: 85 85 85 88
+1316:authors: M. Pääkkö, H. Kosonen, M. Ankerfors, J. Ruokolainen, A. Nykänen, S. Ylisuvanto, T. Lindström, J. Laine, O. Ikkala
+1316:oral: 0
+1316:session: 3
+1316:speaker: M. Pääkkö
+1316:titletex: Network of nanoscale cellulose fibres
+1316:titlehtm: Network of nanoscale cellulose fibres
+1316:trim: 85 85 85 88
+1317:authors: T. Seppälä, K. Nieminen, P. Kotiluoto, T. Serén, I. Auterinen, J. Uusi-Simola, S. Savolainen
+1317:oral: 0
+1317:session: 10
+1317:speaker: S. Savolainen
+1317:titletex: Phantom study of increase of treatment distance in BNCT
+1317:titlehtm: Phantom study of increase of treatment distance in BNCT
+1317:trim: 85 85 85 88
+1318:authors: J. Ojanen, T.T. Rantala
+1318:oral: 0
+1318:session: 2
+1318:speaker: J. Ojanen
+1318:titletex: Electronic structure and photoabsorption spectrum of disperse red 1: Comparison of approaches
+1318:titlehtm: Electronic structure and photoabsorption spectrum of disperse red 1: Comparison of approaches
+1318:trim: 0 0 0 0
+1319:authors: M. Hakala, K. Nygård, S. Manninen, A. Nilsson, L.G.M. Pettersson, K. Hämäläinen
+1319:oral: 0
+1319:session: 5
+1319:speaker: M. Hakala
+1319:titletex: Modeling x-ray Compton scattering spectra from liquid water
+1319:titlehtm: Modeling x-ray Compton scattering spectra from liquid water
+1319:trim: 0 0 0 0
+1320:authors: A. Korkalainen, M. Rasa, J. Parviainen, E. Räikkönen
+1320:oral: 0
+1320:session: 6
+1320:speaker: A. Korkalainen
+1320:titletex: Paper roughness measurement using angle resolved correlation of laser speckle
+1320:titlehtm: Paper roughness measurement using angle resolved correlation of laser speckle
+1320:trim: 85 85 85 88
+1321:authors: H. Raebiger, A. Ayuela, J. von Boehm, R.M. Nieminen
+1321:oral: 1
+1321:session: 3
+1321:speaker: H. Raebiger
+1321:titletex: Electronic and magnetic properties of Mn clusters in (Ga,Mn)As
+1321:titlehtm: Electronic and magnetic properties of Mn clusters in (Ga,Mn)As
+1321:trim: 0 0 0 0
+1322:authors: P. Kivinen, S. Paraoanu, A. Halvari, P. Törmä
+1322:oral: 0
+1322:session: 2
+1322:speaker: P. Kivinen
+1322:titletex: Dependence of the intrinsic noise properties of Nb/AlO$_x$/Nb-junctions on the manufacturing geometry
+1322:titlehtm: Dependence of the intrinsic noise properties of Nb/AlO<sub><var>x</var></sub>/Nb-junctions on the manufacturing geometry
+1322:trim: 0 0 0 0
+1323:authors: J. Saunavaara, J. Jokisaari
+1323:oral: 1
+1323:session: 5
+1323:speaker: J. Saunavaara
+1323:titletex: Hyperpolarization of xenon gas
+1323:titlehtm: Hyperpolarization of xenon gas
+1323:trim: 85 85 85 88
+1324:authors: V. Uski, F. Mota-Furtado, P.F. O'Mahony
+1324:oral: 0
+1324:session: 2
+1324:speaker: V. Uski
+1324:titletex: Statistics of Fano parameters in mesoscopic billiards
+1324:titlehtm: Statistics of Fano parameters in mesoscopic billiards
+1324:trim: 85 85 85 88
+1325:authors: T. Virtanen, E.V. Thuneberg
+1325:oral: 0
+1325:session: 1
+1325:speaker: T. Virtanen
+1325:titletex: Solution of Landau-Boltzmann equation for vibrating wire experiments in $^3$He-$^4$He mixtures
+1325:titlehtm: Solution of Landau-Boltzmann equation for vibrating wire experiments in <sup>3</sup>He-<sup>4</sup>He mixtures
+1325:trim: 0 0 0 0
+1326:authors: A. Lamminpää, M. Noorma, S. Nevas, F. Manoocheri, P. Kärhä, E. Ikonen
+1326:oral: 1
+1326:session: 6
+1326:speaker: A. Lamminpää
+1326:titletex: GaAsP photodiodes and trap detector for high accuracy measurements in ultraviolet wavelength region
+1326:titlehtm: GaAsP photodiodes and trap detector for high accuracy measurements in ultraviolet wavelength region
+1326:trim: 85 85 85 88
+1327:authors: E. Räikkönen, S.C. Buchter, M. Kaivola, H. Ludvigsen
+1327:oral: 0
+1327:session: 6
+1327:speaker: E. Räikkönen
+1327:titletex: Dual-wavelength pumped supercontinuum sources
+1327:titlehtm: Dual-wavelength pumped supercontinuum sources
+1327:trim: 0 0 0 0
+1328:authors: T. Hiltula, K. Mursula
+1328:oral: 0
+1328:session: 8
+1328:speaker: T. Hiltula
+1328:titletex: Hemispherical and longitudinal asymmetries in the heliospheric magnetic field: Flip-flops of a bashful ballerina
+1328:titlehtm: Hemispherical and longitudinal asymmetries in the heliospheric magnetic field: Flip-flops of a bashful ballerina
+1328:trim: 85 85 85 88
+1329:authors: O. Holmgren, K. Kokkonen, T. Mattila, V. Kaajakari, A. Oja, J. Kiihamäki, J.V. Knuuttila, M.M. Salomaa
+1329:oral: 1
+1329:session: 9
+1329:speaker: O. Holmgren
+1329:titletex: Imaging of 3D vibrations in a MEMS RF-resonator
+1329:titlehtm: Imaging of 3D vibrations in a MEMS RF-resonator
+1329:trim: 85 85 85 88
+1330:authors: J. Leppäkangas, E.V. Thuneberg
+1330:oral: 0
+1330:session: 2
+1330:speaker: J. Leppäkangas
+1330:titletex: Tunneling of Cooper pairs in mesoscopic asymmetric two Josephson junction system
+1330:titlehtm: Tunneling of Cooper pairs in mesoscopic asymmetric two Josephson junction system
+1330:trim: 0 0 0 0
+1332:authors: L.G. Blomberg, K. Mursula, T. Asikainen, K. Lappalainen, E. Kallio, H. Matsumoto, J.-L. Bougeret, H. Kojima, S. Yagitani, J.A. Cumnock, A.I. Eriksson, G.T. Marklund, J.-E. Wahlund, L. Bylander, L. Åhlén, J.A. Holtet, K. Ishisaka, Y. Kasaba, A. Matsuoka, M. Moncuquet, Y. Omura, J.G. Trotignon
+1332:oral: 0
+1332:session: 8
+1332:speaker: T. Asikainen
+1332:titletex: MEFISTO -- an electric field instrument for BebiColombo/MMO
+1332:titlehtm: MEFISTO &ndash; an electric field instrument for BebiColombo/MMO
+1332:trim: 85 85 85 88
+1333:authors: V. Petäjä, M. Sarjala, M.J. Alava
+1333:oral: 0
+1333:session: 1
+1333:speaker: V. Petäjä
+1333:titletex: Elastic lines -- splay vs. point disorder
+1333:titlehtm: Elastic lines &ndash; splay vs. point disorder
+1333:trim: 0 0 0 0
+1334:authors: R. Laiho, A. Lashkul, K. Lisunov, E. Lähderanta, M. Shakhov, M. Shubnikov, V. Stamov
+1334:oral: 1
+1334:session: 2
+1334:speaker: E. Lähderanta
+1334:titletex: Quantum galvanomagnetic effects in n-CdSb
+1334:titlehtm: Quantum galvanomagnetic effects in n-CdSb
+1334:trim: 85 85 85 87
+1335:authors: M. Ahola, P. Laukkanen, R.E. Perälä, M. Kuzmin, I.J. Väyrynen
+1335:oral: 0
+1335:session: 1
+1335:speaker: M. Ahola
+1335:titletex: Scanning tunneling microscopy study of Bi-induced GaAs(100)-($2×4$) surface
+1335:titlehtm: Scanning tunneling microscopy study of Bi-induced GaAs(100)-(2×4) surface
+1335:trim: 85 85 85 88
+1336:authors: O. Holmgren, T. Makkonen, J.V. Knuuttila, V.P. Plessky, W. Steichen, M.M. Salomaa
+1336:oral: 0
+1336:session: 9
+1336:speaker: O. Holmgren
+1336:titletex: Side radiation of Rayleigh waves from synchronous leaky SAW resonators
+1336:titlehtm: Side radiation of Rayleigh waves from synchronous leaky SAW resonators
+1336:trim: 85 85 85 88
+1337:authors: K. Enqvist, A. Jokinen, A. Mazumdar, T. Multamäki, A. Väihkönen
+1337:oral: 1
+1337:session: 8
+1337:speaker: A. Jokinen
+1337:titletex: Non-Gaussianity from preheating
+1337:titlehtm: Non-Gaussianity from preheating
+1337:trim: 0 0 0 0
+1338:authors: S. Tuukkanen, A. Kuzyk, J.J. Toppari, V.P. Hytönen, M.S. Kulomaa, P. Törmä
+1338:oral: 0
+1338:session: 3
+1338:speaker: S. Tuukkanen
+1338:titletex: Dielectrophoresis and electrical conductivity measurements of short DNA helices
+1338:titlehtm: Dielectrophoresis and electrical conductivity measurements of short DNA helices
+1338:trim: 85 85 85 88
+1339:authors: V. Telkki, J. Lounila, J. Jokisaari
+1339:oral: 0
+1339:session: 1
+1339:speaker: J. Lounila
+1339:titletex: Xenon porometry: a novel method for determining the pore sizes of mesoporous materials
+1339:titlehtm: Xenon porometry: a novel method for determining the pore sizes of mesoporous materials
+1339:trim: 85 85 85 88
+1340:authors: J.H. Vilppola, K. Mursula, P. Tanskanen, E. Kallio, I. Sillanpää, D. Young, the CAPS team
+1340:oral: 1
+1340:session: 8
+1340:speaker: J.H. Vilppola
+1340:titletex: Cassini IBS results during first Titan flybys
+1340:titlehtm: Cassini IBS results during first Titan flybys
+1340:trim: 85 85 85 88
+1341:authors: E.-M. Pavelescu, H.-P. Komsa, J. Wagner, J. Konttinen, M. Dumitrescu, T.T. Rantala, M. Pessa
+1341:oral: 1
+1341:session: 1
+1341:speaker: E.-M. Pavelescu
+1341:titletex: The effects of growth temperature on the nitrogen incorporation into GaInNAs lattice matched to GaAs
+1341:titlehtm: The effects of growth temperature on the nitrogen incorporation into GaInNAs lattice matched to GaAs
+1341:trim: 85 85 85 87
+1342:authors: M. Sarjala, V. Petäjä, M.J. Alava
+1342:oral: 0
+1342:session: 1
+1342:speaker: M. Sarjala
+1342:titletex: Quantum annealing in the random field Ising model
+1342:titlehtm: Quantum annealing in the random field Ising model
+1342:trim: 0 0 0 0
+1343:authors: F. Wu, L. Roschier, T. Tsuneta, T.H. Wang, P.J. Hakonen
+1343:oral: 0
+1343:session: 2
+1343:speaker: F. Wu
+1343:titletex: Shot noise measurements of carbon nanotubes
+1343:titlehtm: Shot noise measurements of carbon nanotubes
+1343:trim: 85 85 81 81
+1344:authors: K. Mursula, D. Martini, A. Karinen
+1344:oral: 0
+1344:session: 8
+1344:speaker: K. Mursula
+1344:titletex: The increase in geomagnetic activity during the last 100 years is weaker than depicted by the aa index
+1344:titlehtm: The increase in geomagnetic activity during the last 100 years is weaker than depicted by the aa index
+1344:trim: 85 85 85 88
+1345:authors: H.-P. Komsa, J. Ojanen, E. Arola, T.T. Rantala
+1345:oral: 1
+1345:session: 1
+1345:speaker: E. Arola
+1345:titletex: First-principles electronic structure studies on nitrogen interstitials in GaAs
+1345:titlehtm: First-principles electronic structure studies on nitrogen interstitials in GaAs
+1345:trim: 0 0 0 0
+1346:authors: H. Niskanen, K. Alanko, K. Mursula, I.G. Usoskin
+1346:oral: 0
+1346:session: 8
+1346:speaker: H. Niskanen
+1346:titletex: The 40-year history of the cosmic ray station in Oulu
+1346:titlehtm: The 40-year history of the cosmic ray station in Oulu
+1346:trim: 85 85 85 88
+1347:authors: T. Malkiewicz, G.N. Knyazheva, V. Lyapin, J. Perkowski, W.H. Trzaska
+1347:oral: 1
+1347:session: 7
+1347:speaker: T. Malkiewicz
+1347:titletex: Energy and time resolution in energy loss measurements using TOF-E method
+1347:titlehtm: Energy and time resolution in energy loss measurements using TOF-E method
+1347:trim: 85 85 85 88
+1348:authors: J. Sainio, J. Lahtinen
+1348:oral: 0
+1348:session: 1
+1348:speaker: J. Sainio
+1348:titletex: Isobutane adsorption on a chromium oxide model catalyst
+1348:titlehtm: Isobutane adsorption on a chromium oxide model catalyst
+1348:trim: 0 0 0 0
+1349:authors: T. Malkiewicz, S. Yamaletdinov, V. Lyapin, W.H. Trzaska
+1349:oral: 0
+1349:session: 9
+1349:speaker: T. Malkiewicz
+1349:titletex: Beam tests of complete T0 system for ALICE experiment at CERN
+1349:titlehtm: Beam tests of complete T0 system for ALICE experiment at CERN
+1349:trim: 85 85 85 88
+1350:authors: T. Leppänen, M. Karttunen, R.A. Barrio, K. Kaski
+1350:oral: 0
+1350:session: 4
+1350:speaker: M. Karttunen
+1350:titletex: Spatio-temporal pattern dynamics in Turing systems
+1350:titlehtm: Spatio-temporal pattern dynamics in Turing systems
+1350:trim: 0 0 0 0
+1351:authors: K. Kokkonen, P. Dufilie, J.V. Knuuttila, O. Holmgren, M.M. Salomaa
+1351:oral: 1
+1351:session: 9
+1351:speaker: K. Kokkonen
+1351:titletex: Optical measurements and numerical simulations of a dual-track 374 MHz SAW filter
+1351:titlehtm: Optical measurements and numerical simulations of a dual-track 374 MHz SAW filter
+1351:trim: 85 85 85 88
+1352:authors: T. Malkiewicz, A. Pekkanen, W.H. Trzaska
+1352:oral: 0
+1352:session: 9
+1352:speaker: T. Malkiewicz
+1352:titletex: T0 Detector Construction Database for ALICE experiment at CERN
+1352:titlehtm: T0 Detector Construction Database for ALICE experiment at CERN
+1352:trim: 85 85 85 88
+1353:authors: J. Larson, E. Andersson
+1353:oral: 1
+1353:session: 5
+1353:speaker: J. Larson
+1353:titletex: Cavity state preparation using adiabatic transfer
+1353:titlehtm: Cavity state preparation using adiabatic transfer
+1353:trim: 0 0 0 0
+1354:authors: K. Mursula
+1354:oral: 1
+1354:session: 8
+1354:speaker: K. Mursula
+1354:titletex: The exceptional activity of a bashful ballerina
+1354:titlehtm: The exceptional activity of a bashful ballerina
+1354:trim: 85 85 85 88
+1355:authors: P. Moilanen, V. Kilappa, P.H.F. Nicholson, S. Cheng, J. Timonen
+1355:oral: 1
+1355:session: 10
+1355:speaker: P. Moilanen
+1355:titletex: Ultrasonic guided wave measurements in bone
+1355:titlehtm: Ultrasonic guided wave measurements in bone
+1355:trim: 85 85 85 88
+1357:authors: J. Sarkamo, E. Kozlovskaya, J. Peltoniemi
+1357:oral: 0
+1357:session: 7
+1357:speaker: J. Sarkamo
+1357:titletex: Studying the neutrino properties with a neutrino factory beam from CERN to Pyhäsalmi
+1357:titlehtm: Studying the neutrino properties with a neutrino factory beam from CERN to Pyhäsalmi
+1357:trim: 0 0 0 0
+1358:authors: Z. Radivojevic, J.K. Tommola, J. Kallioinen, K. Toivainen
+1358:oral: 0
+1358:session: 3
+1358:speaker: Z. Radivojevic
+1358:titletex: Color-change reations for environmental sensing
+1358:titlehtm: Color-change reations for environmental sensing
+1358:trim: 85 85 85 88
+1359:authors: J.S. Lönnroth, G. Corrigan, W. Fundamenski, V. Parail, J. Spence, D. Tshkakaya
+1359:oral: 0
+1359:session: 9
+1359:speaker: J.S. Lönnroth
+1359:titletex: Modelling of ELM heat pulse propagation with the integrated core-edge transport code COCONUT
+1359:titlehtm: Modelling of ELM heat pulse propagation with the integrated core-edge transport code COCONUT
+1359:trim: 80 85 80 88
+1360:authors: M. Koskenvuori, V-P. Rytkönen, P. Rantakari, I. Tittonen
+1360:oral: 1
+1360:session: 9
+1360:speaker: M. Koskenvuori
+1360:titletex: Built-in potentials affecting the stability of micromechanical systems
+1360:titlehtm: Built-in potentials affecting the stability of micromechanical systems
+1360:trim: 85 85 85 88
+1361:authors: K. Tappura, O. Cramariuc, T.I. Hukka, T.T. Rantala
+1361:oral: 0
+1361:session: 3
+1361:speaker: O. Cramariuc
+1361:titletex: Simulations of solvent and temperature effects on a porphyrin-fullerene dyad
+1361:titlehtm: Simulations of solvent and temperature effects on a porphyrin-fullerene dyad
+1361:trim: 85 85 85 88
+1362:authors: K. Kainulainen, D. Sunhede
+1362:oral: 1
+1362:session: 8
+1362:speaker: D. Sunhede
+1362:titletex: Dark energy from large extra dimensions
+1362:titlehtm: Dark energy from large extra dimensions
+1362:trim: 85 85 85 88
+1363:authors: M. Sillanpää, L. Roschier, A. Paila, T. Lehtinen, P.J. Hakonen
+1363:oral: 0
+1363:session: 3
+1363:speaker: M. Sillanpää
+1363:titletex: Direct observation of macroscopic quantum capacitance
+1363:titlehtm: Direct observation of macroscopic quantum capacitance
+1363:trim: 85 85 85 88
+1364:authors: T. Hakala, M.J. Puska, N. Zabala, E.V. Chulkov
+1364:oral: 0
+1364:session: 2
+1364:speaker: T. Hakala
+1364:titletex: Lifetimes of electron-hole excitations at nanostructures on metal surfaces
+1364:titlehtm: Lifetimes of electron-hole excitations at nanostructures on metal surfaces
+1364:trim: 0 0 0 0
+1365:authors: P. Luukka, T. Lampén, L. Wendland, S. Czellar, E. Hæggström, J. Härkönen, I. Kassamakov, T. Mäenpää, E. Tuovinen
+1365:oral: 1
+1365:session: 7
+1365:speaker: P. Luukka
+1365:titletex: Helsinki Silicon Beam Telescope test results for proton irradiated Magnetic Czochralski silicon detector
+1365:titlehtm: Helsinki Silicon Beam Telescope test results for proton irradiated Magnetic Czochralski silicon detector
+1365:trim: 103 85 103 82
+1366:authors: J. Levoska, M. Tyunina, I. Jaakola
+1366:oral: 0
+1366:session: 1
+1366:speaker: J. Levoska
+1366:titletex: Strain and clamping effects in Ba$_{1-x}$Sr$_x$TiO$_3$ epitaxial thin-film heterostructures
+1366:titlehtm: Strain and clamping effects in Ba<sub>1-<var>x</var></sub>Sr<sub><var>x</var></sub>TiO<sub>3</sub> epitaxial thin-film heterostructures
+1366:trim: 85 85 85 87
+1367:authors: A. Mattila, G. Vankó, J.-P. Rueff, C. Sternemann, K. Hämäläinen
+1367:oral: 1
+1367:session: 2
+1367:speaker: A. Mattila
+1367:titletex: Temperature induced spin state transitions in LaCoO$_3$ and EuCoO$_3$
+1367:titlehtm: Temperature induced spin state transitions in LaCoO<sub>3</sub> and EuCoO<sub>3</sub>
+1367:trim: 85 85 85 87
+1368:authors: J. Suomalainen, J. Peltoniemi
+1368:oral: 0
+1368:session: 9
+1368:speaker: J. Suomalainen
+1368:titletex: Spectrogoniometer and measurement of bidirectional reflectance distribution function of small targets
+1368:titlehtm: Spectrogoniometer and measurement of bidirectional reflectance distribution function of small targets
+1368:trim: 85 85 85 88
+1369:authors: I.T. Koponen, M. Heikkinen
+1369:oral: 1
+1369:session: 11
+1369:speaker: I.T. Koponen
+1369:titletex: Developing qualitative understanding of the quantum nature of light: A case study of an instructional unit designed for student teachers
+1369:titlehtm: Developing qualitative understanding of the quantum nature of light: A case study of an instructional unit designed for student teachers
+1369:trim: 85 85 85 88
+1370:authors: A. Jaakkola, A. Shevchenko, K. Lindfors, M. Hautakorpi, M. Heiliö, T. Lindvall, I. Tittonen, M. Kaivola
+1370:oral: 0
+1370:session: 6
+1370:speaker: A. Shevchenko
+1370:titletex: Reconfigurable atom chip on a transparent ferrite-garnet film
+1370:titlehtm: Reconfigurable atom chip on a transparent ferrite-garnet film
+1370:trim: 0 0 420 0
+1371:authors: T. Makkonen, V.P. Plessky, W. Steichen, S. Chamaly, M. Solal, M.M. Salomaa
+1371:oral: 0
+1371:session: 9
+1371:speaker: T. Makkonen
+1371:titletex: Fundamental mode 5 GHz surface-acoustic-wave filters using optical lithography
+1371:titlehtm: Fundamental mode 5 GHz surface-acoustic-wave filters using optical lithography
+1371:trim: 0 0 0 0
+1372:authors: M. Solal, T. Makkonen, V.P. Plessky, R. Lardat, T. Pastureaud, W. Steichen
+1372:oral: 0
+1372:session: 9
+1372:speaker: T. Makkonen
+1372:titletex: Existence of harmonic metal thickness mode propagation for longitudinal leaky waves
+1372:titlehtm: Existence of harmonic metal thickness mode propagation for longitudinal leaky waves
+1372:trim: 0 0 0 0
+1373:authors: K. Loo, T. Enqvist, J. Peltoniemi, J. Sarkamo
+1373:oral: 0
+1373:session: 7
+1373:speaker: K. Loo
+1373:titletex: Calculated reactor neutrino background throughout the world
+1373:titlehtm: Calculated reactor neutrino background throughout the world
+1373:trim: 0 0 0 0
+1374:authors: T. Makkonen, V.P. Plessky, W. Steichen, M.M. Salomaa
+1374:oral: 0
+1374:session: 9
+1374:speaker: T. Makkonen
+1374:titletex: 3D FEM computation of charge distribution for periodic array of electrodes on 42YX-cut LiTaO$_3$
+1374:titlehtm: 3D FEM computation of charge distribution for periodic array of electrodes on 42YX-cut LiTaO<sub>3</sub>
+1374:trim: 0 0 0 0
+1375:authors: J. Nysten
+1375:oral: 1
+1375:session: 7
+1375:speaker: J. Nysten
+1375:titletex: Photon energy reconstruction at CMS
+1375:titlehtm: Photon energy reconstruction at CMS
+1375:trim: 0 0 0 0
+1376:authors: T. Makkonen, V.P. Plessky, M.M. Salomaa
+1376:oral: 0
+1376:session: 9
+1376:speaker: T. Makkonen
+1376:titletex: Model for leaky longitudinal surface acoustic wave propagating under periodic resonator array on isotropic substrate
+1376:titlehtm: Model for leaky longitudinal surface acoustic wave propagating under periodic resonator array on isotropic substrate
+1376:trim: 0 0 0 0
+1377:authors: S. Janhunen, T.P. Kiviniemi, J.A. Heikkinen
+1377:oral: 1
+1377:session: 9
+1377:speaker: S. Janhunen
+1377:titletex: Benchmarking of a kinetic plasma turbulence simulation model
+1377:titlehtm: Benchmarking of a kinetic plasma turbulence simulation model
+1377:trim: 85 85 85 88
+1378:authors: R.H.A. Ras, R.A. Schoonheydt
+1378:oral: 1
+1378:session: 3
+1378:speaker: R.H.A. Ras
+1378:titletex: One-nanometer thick clay mineral films functionalised with dye molecules
+1378:titlehtm: One-nanometer thick clay mineral films functionalised with dye molecules
+1378:trim: 85 85 85 88
+1379:authors: E. Turunen, Th. Ulich, C.-F. Enell, A. Kero, P. Verronen, A. Seppälä, E. Kyrölä
+1379:oral: 0
+1379:session: 8
+1379:speaker: E. Turunen
+1379:titletex: Aeronomy of the high-latitude ionospheric D region and mesosphere studied by the Sodankylä ion chemistry model
+1379:titlehtm: Aeronomy of the high-latitude ionospheric D region and mesosphere studied by the Sodankylä ion chemistry model
+1379:trim: 85 85 85 88
+1380:authors: T.H. Ekholm, S. Janhunen, J.A. Heikkinen, S.V. Henriksson, T.P. Kiviniemi
+1380:oral: 1
+1380:session: 9
+1380:speaker: S. Janhunen
+1380:titletex: Visualization of plasma turbulence and transport barrier generation
+1380:titlehtm: Visualization of plasma turbulence and transport barrier generation
+1380:trim: 85 85 85 88
+1381:authors: M.A. Mäki-Jaskari, T.T. Rantala
+1381:oral: 1
+1381:session: 1
+1381:speaker: M.A. Mäki-Jaskari
+1381:titletex: Cu/Cu$_{2}$O interface structure and electronic structure
+1381:titlehtm: Cu/Cu<sub>2</sub>O interface structure and electronic structure
+1381:trim: 0 0 0 0
+1382:authors: S.S. Gylfadottir, A. Harju
+1382:oral: 0
+1382:session: 2
+1382:speaker: S.S. Gylfadottir
+1382:titletex: Time dependent perturbation of a quantum ring
+1382:titlehtm: Time dependent perturbation of a quantum ring
+1382:trim: 85 85 85 88
+1383:authors: T. Sajavaara
+1383:oral: 1
+1383:session: 9
+1383:speaker: T. Sajavaara
+1383:titletex: Quantitative depth profiling of elements starting from H by means of ion beam analysis
+1383:titlehtm: Quantitative depth profiling of elements starting from H by means of ion beam analysis
+1383:trim: 0 0 0 0
+1384:authors: T. Ruotsalainen, J. Turku, P. Heikkilä, J. Ruokolainen, A. Nykänen, T. Laitinen, M. Torkkeli, R. Serimaa, G. ten Brinke, A. Harlin, O. Ikkala
+1384:oral: 1
+1384:session: 3
+1384:speaker: T. Ruotsalainen
+1384:titletex: Mesoscale objects with hierachical internal structure: electrospun block copolymer/amphiphile fibers
+1384:titlehtm: Mesoscale objects with hierachical internal structure: electrospun block copolymer/amphiphile fibers
+1384:trim: 85 85 85 101
+1385:authors: T. Ruotsalainen, J. Turku, P. Heikkilä, J. Ruokolainen, A. Harlin, O. Ikkala
+1385:oral: 0
+1385:session: 3
+1385:speaker: T. Ruotsalainen
+1385:titletex: Learning from UV-lithography to prepare highly porous nanofibers
+1385:titlehtm: Learning from UV-lithography to prepare highly porous nanofibers
+1385:trim: 85 85 85 88
+1386:authors: M. Timonen, S. Heikkinen, S. Savolainen
+1386:oral: 0
+1386:session: 10
+1386:speaker: M. Timonen
+1386:titletex: In vitro detection limit and quantification of BNCT boron carrier BPA using 3D $^1$H MRSI
+1386:titlehtm: In vitro detection limit and quantification of BNCT boron carrier BPA using 3D <sup>1</sup>H MRSI
+1386:trim: 85 85 85 88
+1387:authors: T. Lönnroth, J. Bergman, P. Granholm, K.-M. Källman, J.-O. Lill, M. Norrby, O. Solin, J. Suhonen, P. Tikkanen
+1387:oral: 0
+1387:session: 7
+1387:speaker: T. Lönnroth
+1387:titletex: Search for the E5 $11/2^- \to 1/2^+$ transition in $^{133}$Ba
+1387:titlehtm: Search for the E5 11/2<sup>-</sup> &rarr; 1/2<sup>+</sup> transition in <sup>133</sup>Ba
+1387:trim: 0 0 0 0
+1388:authors: E. Hæggström, T. Koponen, T. Karppinen, P. Saranpää, R. Serimaa
+1388:oral: 0
+1388:session: 9
+1388:speaker: E. Hæggström
+1388:titletex: Ultrasonic study on hysteresis in modulus of elasticity in Norway spruce as a function of year ring
+1388:titlehtm: Ultrasonic study on hysteresis in modulus of elasticity in Norway spruce as a function of year ring
+1388:trim: 85 85 85 88
+1389:authors: M. Guttormsen, T. Lönnroth, A.-C. Sunde, A. Schiller, A. Voinov
+1389:oral: 0
+1389:session: 7
+1389:speaker: T. Lönnroth
+1389:titletex: Level densities in mass A=27--98 nuclei: ``sparse'' continua and ``soft modes''
+1389:titlehtm: Level densities in mass A=27&ndash;98 nuclei: "sparse" continua and "soft modes"
+1389:trim: 0 0 0 0
+1390:authors: T. Lönnroth, V.Z. Goldberg, M.S. Golovkov, M. Guttormsen, K.-M. Källman, M. Lattuada, P. Manngård, S.V. Perov, G.V. Rogachev, S. Romano, B.B. Skorodumov, A.-C. Sunde, G.P. Tiourine, Yu. Tchuvilskij, W.H. Trzaska, A. Tumino, A.N. Vorontsov
+1390:oral: 0
+1390:session: 7
+1390:speaker: T. Lönnroth
+1390:titletex: Alpha-cluster excitations in light nuclei
+1390:titlehtm: Alpha-cluster excitations in light nuclei
+1390:trim: 0 0 0 0
+1391:authors: O. Kimmelma, M. Kaivola, I. Tittonen, S.C. Buchter
+1391:oral: 0
+1391:session: 6
+1391:speaker: O. Kimmelma
+1391:titletex: Miniature passively Q-switched quasi-three-level lasers
+1391:titlehtm: Miniature passively Q-switched quasi-three-level lasers
+1391:trim: 85 85 85 38
+1392:authors: T. Kangas, N. Nivalainen, H. Pitkänen, A. Puisto, M. Alatalo, K. Laasonen
+1392:oral: 0
+1392:session: 2
+1392:speaker: N. Nivalainen
+1392:titletex: Oxygen induced segregation of Ag/Cu(100)
+1392:titlehtm: Oxygen induced segregation of Ag/Cu(100)
+1392:trim: 85 85 85 88
+1393:authors: R. Laiho, A. Lashkul, K. Lisunov, E. Lähderanta, I. Ojala, V. Zakhvalinskii
+1393:oral: 0
+1393:session: 2
+1393:speaker: I. Ojala
+1393:titletex: Magnetic freezing in cadmium antimonide doped by nickel
+1393:titlehtm: Magnetic freezing in cadmium antimonide doped by nickel
+1393:trim: 0 0 0 0
+1394:authors: K. Luo, M.-P. Kuittu, C. Tong, S. Majaniemi, M. Dube, T. Ala-Nissilä
+1394:oral: 0
+1394:session: 1
+1394:speaker: K. Luo
+1394:titletex: Wetting on structured surfaces
+1394:titlehtm: Wetting on structured surfaces
+1394:trim: 90 85 85 80
+1395:authors: A. Jäsberg, E. Rehn, A. Koponen, U. Aaltosalmi, M. Kataja, J. Timonen
+1395:oral: 1
+1395:session: 1
+1395:speaker: A. Jäsberg
+1395:titletex: Multi-phase model for closed-channel flow of paper pulp
+1395:titlehtm: Multi-phase model for closed-channel flow of paper pulp
+1395:trim: 0 0 0 0
+1396:authors: M. Helle, A. Harju, R.M. Nieminen
+1396:oral: 1
+1396:session: 2
+1396:speaker: M. Helle
+1396:titletex: Magnetization and vortices in quantum dot molecules
+1396:titlehtm: Magnetization and vortices in quantum dot molecules
+1396:trim: 85 85 85 88
+1397:authors: L. Lipiäinen, I. Nissilä, T. Noponen, K. Kotilahti, T. Kajava, P. Meriläinen, T. Katila
+1397:oral: 0
+1397:session: 10
+1397:speaker: L. Lipiäinen
+1397:titletex: A compact near-infrared spectroscopic imaging system for non-invasive brain studies
+1397:titlehtm: A compact near-infrared spectroscopic imaging system for non-invasive brain studies
+1397:trim: 103 85 103 81
+1398:authors: T. Näsi, T. Noponen, L. Lipiäinen, T. Kajava, I. Nissilä, P. Meriläinen, T. Katila
+1398:oral: 0
+1398:session: 10
+1398:speaker: T. Näsi
+1398:titletex: Estimating arterial oxygen saturation of human brain with near-infrared spectroscopic imaging
+1398:titlehtm: Estimating arterial oxygen saturation of human brain with near-infrared spectroscopic imaging
+1398:trim: 0 0 0 0
+1399:authors: J.P. Pekola
+1399:oral: 1
+1399:session: 0
+1399:speaker: J.P. Pekola
+1399:titletex: Mesoscopic Josephson junctions and devices at millikelvin temperatures
+1399:titlehtm: Mesoscopic Josephson junctions and devices at millikelvin temperatures
+1399:trim: 85 85 85 87
+1400:authors: I.A. Todoshchenko, H. Alles, H.J. Junes, A.Ya. Parshin, V. Tsepelin
+1400:oral: 1
+1400:session: 1
+1400:speaker: H.J. Junes
+1400:titletex: Surface of a $^3$He crystal: crossover from quantum to classical behavior
+1400:titlehtm: Surface of a <sup>3</sup>He crystal: crossover from quantum to classical behavior
+1400:trim: 0 0 0 0
+1401:authors: I. Degtyarenko, C. Rovira, R.M. Nieminen
+1401:oral: 0
+1401:session: 2
+1401:speaker: I. Degtyarenko
+1401:titletex: Density functional electronic structure and molecular dynamics simulations of cobalt heme models
+1401:titlehtm: Density functional electronic structure and molecular dynamics simulations of cobalt heme models
+1401:trim: 80 85 56 65
+1402:authors: H. Kragh
+1402:oral: 1
+1402:session: 0
+1402:speaker: H. Kragh
+1402:titletex: The rise of physical cosmology in the 20th century
+1402:titlehtm: The rise of physical cosmology in the 20th century
+1402:trim: 85 85 85 88
+1403:authors: P. Grünberg, H. Braak, M. Buchmeier, D. Bürgler, Th. Damm, H. Dassow, R. Gareev, L. Pohl, R. Schreiber
+1403:oral: 1
+1403:session: 0
+1403:speaker: D. Bürgler
+1403:titletex: Spintronics in layered magnetic structures
+1403:titlehtm: Spintronics in layered magnetic structures
+1403:trim: 85 85 85 88
+1404:authors: S. Mathur
+1404:oral: 1
+1404:session: 0
+1404:speaker: S. Mathur
+1404:titletex: What is inside a black hole?
+1404:titlehtm: What is inside a black hole?
+1404:trim: 85 85 85 88
+1200:nopublish: 1
+1205:nopublish: 1
+1232:nopublish: 1
+1405:authors: E. Keihänen, H. Kurki-Suonio, T. Poutanen
+1405:oral: 0
+1405:session: 8
+1405:speaker: H. Kurki-Suonio
+1405:titletex: Making temperature and polarization maps of the cosmic microwave background from the Planck satellite data
+1405:titlehtm: Making temperature and polarization maps of the cosmic microwave background from the Planck satellite data
+1405:trim: 85 85 85 88
+1406:authors: A.R. Khokhlov
+1406:oral: 1
+1406:session: 0
+1406:speaker: A.R. Khokhlov
+1406:titletex: Towards understanding and mimicking biopolymer functions: protein-like polymers
+1406:titlehtm: Towards understanding and mimicking biopolymer functions: protein-like polymers
+1406:trim: 85 85 85 88
+1407:authors: R.J. Hemley
+1407:oral: 1
+1407:session: 0
+1407:speaker: R.J. Hemley
+1407:titletex: Materials under pressure: new findings and phenomena
+1407:titlehtm: Materials under pressure: new findings and phenomena
+1407:trim: 85 85 85 88
+1408:authors: G. Wendin
+1408:oral: 1
+1408:session: 0
+1408:speaker: G. Wendin
+1408:titletex: Recent progress in hardware for scalable quantum computers
+1408:titlehtm: Recent progress in hardware for scalable quantum computers
+1408:trim: 85 85 85 88
+1409:authors: H. Ludvigsen
+1409:oral: 1
+1409:session: 0
+1409:speaker: H. Ludvigsen
+1409:titletex: Photonic crystal structures, from basic physical concepts to device implementation
+1409:titlehtm: Photonic crystal structures, from basic physical concepts to device implementation
+1409:trim: 85 85 85 88
+1410:authors: K. Huitu
+1410:oral: 1
+1410:session: 0
+1410:speaker: K. Huitu
+1410:titletex: Unveiling dark matter through collider experiments
+1410:titlehtm: Unveiling dark matter through collider experiments
+1410:trim: 85 85 85 88

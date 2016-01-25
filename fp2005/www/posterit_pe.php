@@ -1,0 +1,152 @@
+<?php
+$pagetitle = "Ohjelma";
+include("top.php");
+?>
+<h2>Poster-istunto 18.3. klo 16.00&#8211;17.30</h2>
+<h3><a name="6">6. New materials, nanosciences and -technology</a></h3>
+<p>Ohjelma ei ole vielä valmis.</p>
+<h3><a name="7">7. Biological and medical physics</a></h3>
+<p>[<a href="pdf/sessio_7.pdf">sessio-pdf</a>]</p>
+<table cellpadding="6" cellspacing="0" border="0">
+<tr><td valign="top"><b>7.8</b></td><td>E. Kuusela:
+<a href="pdf/abs1186.pdf">Sedimentation in a confined geometry with finite Reynolds number</a></td></tr>
+<tr><td valign="top"><b>7.9</b></td><td>M. Karttunen:
+<a href="pdf/abs1350.pdf">Spatio-temporal pattern dynamics in Turing systems</a></td></tr>
+<tr><td valign="top"><b>7.10</b></td><td>M. Karttunen:
+<a href="pdf/abs1288.pdf">The interaction of ethanol and methanol with biomembranes</a></td></tr>
+<tr><td valign="top"><b>7.11</b></td><td>L.M. Stimson:
+<a href="pdf/abs1190.pdf">Investigation of the effect of a general anaesthetic on lipid bilayers</a></td></tr>
+<tr><td valign="top"><b>7.12</b></td><td>A.A. Gurtovenko:
+<a href="pdf/abs1003.pdf">Influence of monovalent salt on cationic lipid membranes</a></td></tr>
+<tr><td valign="top"><b>7.13</b></td><td>I. Vattulainen:
+<a href="pdf/abs1004.pdf">Long-range interactions in biomolecular simulations: accuracy and speed</a></td></tr>
+<tr><td valign="top"><b>7.14</b></td><td>I. Vattulainen:
+<a href="pdf/abs1005.pdf">Fluorescent DPH probes in lipid membranes</a></td></tr>
+<tr><td valign="top"><b>7.15</b></td><td>E. Falck:
+<a href="pdf/abs1018.pdf">Towards computer models of lipid bilayers at micrometer-scale: Coarse-graining of DPPC/cholesterol bilayers</a></td></tr>
+<tr><td valign="top"><b>7.16</b></td><td>E. Falck:
+<a href="pdf/abs1019.pdf">Voids in bilayers of saturated phospholipids: Impact of cholesterol</a></td></tr>
+<tr><td valign="top"><b>7.17</b></td><td>M. Kupiainen:
+<a href="pdf/abs1034.pdf">Packing and free volume properties of phospholipids and sphingomyelin</a></td></tr>
+<tr><td valign="top"><b>7.18</b></td><td>P. Niemelä:
+<a href="pdf/abs1035.pdf">Influence of chain length and unsaturation on sphingomyelin bilayers</a></td></tr>
+<tr><td valign="top"><b>7.19</b></td><td>P. Niemelä:
+<a href="pdf/abs1036.pdf">Large-scale atomistic simulations of lipid rafts</a></td></tr>
+<tr><td valign="top"><b>7.20</b></td><td>S. Ollila:
+<a href="pdf/abs1079.pdf">Molecular dynamics simulations of polyunsaturated lipid bilayers</a></td></tr>
+<tr><td valign="top"><b>7.21</b></td><td>T. Róg:
+<a href="pdf/abs1052.pdf">Modeling glycolipids: Take one</a></td></tr>
+<tr><td valign="top"><b>7.22</b></td><td>W. Zhao:
+<a href="pdf/abs1217.pdf">Molecular dynamics simulations of bacterial membranes</a></td></tr>
+<tr><td valign="top"><b>7.23</b></td><td>M. Heikelä:
+<a href="pdf/abs1231.pdf">Molecular dynamics model of cholesteryl oleates, a constituent of lipoprotein core</a></td></tr>
+<tr><td valign="top"><b>7.24</b></td><td>T. Ikonen:
+<a href="pdf/abs1181.pdf">Structural studies on chlorosomes</a></td></tr>
+<tr><td valign="top"><b>7.25</b></td><td>M. Miettinen:
+<a href="pdf/abs1076.pdf">Pulling out a globule</a></td></tr>
+<tr><td valign="top"><b>7.26</b></td><td>O. Punkkinen:
+<a href="pdf/abs1012.pdf">Dynamics and scaling of polymers in a dilute solution: Analytical treatment in two and higher dimension</a></td></tr>
+<tr><td valign="top"><b>7.27</b></td><td>O. Punkkinen:
+<a href="pdf/abs1011.pdf">DNA overstretching transition: Ionic strength effects</a></td></tr>
+<tr><td valign="top"><b>7.28</b></td><td>K. Kisko:
+<a href="pdf/abs1302.pdf">Self-assembly of hydrophobin proteins on air-water interface</a></td></tr>
+<tr><td valign="top"><b>7.29</b></td><td>H. Suhonen:
+<a href="pdf/abs1286.pdf">Small-angle x-ray scattering simulation</a></td></tr>
+<tr><td valign="top"><b>7.30</b></td><td>J. Lehtinen:
+<a href="pdf/abs1117.pdf">Development of optically functional composite materials for medicine and dentistry</a></td></tr>
+<tr><td valign="top"><b>7.31</b></td><td>T. Kiljunen:
+<a href="pdf/abs1010.pdf">Diagnostic reference levels in paediatric radiography</a></td></tr>
+<tr><td valign="top"><b>7.32</b></td><td>P. Pöyry:
+<a href="pdf/abs1053.pdf">Calibration of dose-area product meters for diagnostic X-ray beams</a></td></tr>
+<tr><td valign="top"><b>7.33</b></td><td>L. Porra:
+<a href="pdf/abs1141.pdf">Imaging asthmatic airway narrowing with synchrotron radiation CT</a></td></tr>
+<tr><td valign="top"><b>7.34</b></td><td>Y. Schenkel:
+<a href="pdf/abs1297.pdf">Introduction to dosimetry and image quality in mammography</a></td></tr>
+<tr><td valign="top"><b>7.35</b></td><td>S. Savolainen:
+<a href="pdf/abs1317.pdf">Phantom study of increase of treatment distance in BNCT</a></td></tr>
+<tr><td valign="top"><b>7.36</b></td><td>M. Timonen:
+<a href="pdf/abs1386.pdf">In vitro detection limit and quantification of BNCT boron carrier BPA using 3D <sup>1</sup>H MRSI</a></td></tr>
+<tr><td valign="top"><b>7.37</b></td><td>L. Lipiäinen:
+<a href="pdf/abs1397.pdf">A compact near-infrared spectroscopic imaging system for non-invasive brain studies</a></td></tr>
+<tr><td valign="top"><b>7.38</b></td><td>T. Näsi:
+<a href="pdf/abs1398.pdf">Estimating arterial oxygen saturation of human brain with near-infrared spectroscopic imaging</a></td></tr>
+</table>
+<h3><a name="9">9. Particle and nuclear physics</a></h3>
+<p>Ohjelma ei ole vielä valmis.</p>
+<h3><a name="10">10. Condensed matter: electronic properties</a></h3>
+<p>[<a href="pdf/sessio_10.pdf">sessio-pdf</a>]</p>
+<table cellpadding="6" cellspacing="0" border="0">
+<tr><td valign="top"><b>10.8</b></td><td>I. Makkonen:
+<a href="pdf/abs1044.pdf">Calculation of valence electron momentum densities using the projector augmented-wave method</a></td></tr>
+<tr><td valign="top"><b>10.9</b></td><td>H. Saarikoski:
+<a href="pdf/abs1180.pdf">Stability of vortex structures in quantum dots</a></td></tr>
+<tr><td valign="top"><b>10.10</b></td><td>S. Jaatinen:
+<a href="pdf/abs1197.pdf">Oxygen adsorption on Cu(100)</a></td></tr>
+<tr><td valign="top"><b>10.11</b></td><td>M. Meschke:
+<a href="pdf/abs1305.pdf">Thermal design for Rapid Single Flux Quantum devices operating in the milli-Kelvin temperature range</a></td></tr>
+<tr><td valign="top"><b>10.12</b></td><td>E. Lähderanta:
+<a href="pdf/abs1334.pdf">Quantum galvanomagnetic effects in n-CdSb</a></td></tr>
+<tr><td valign="top"><b>10.13</b></td><td>J. Samela:
+<a href="pdf/abs1030.pdf">Quantitative comparison of empirical potentials</a></td></tr>
+<tr><td valign="top"><b>10.14</b></td><td>T. Hynninen:
+<a href="pdf/abs1043.pdf">Clustering of Mn in GaN:Mn</a></td></tr>
+<tr><td valign="top"><b>10.15</b></td><td>K. Kokko:
+<a href="pdf/abs1097.pdf">Lattice strain and interface energy in PdAg multilayers</a></td></tr>
+<tr><td valign="top"><b>10.16</b></td><td>M.P.J. Punkkinen:
+<a href="pdf/abs1098.pdf">Magnetic ground state of the Fe<sub>1-<var>x</var></sub>Co<sub><var>x</var></sub>Si alloys</a></td></tr>
+<tr><td valign="top"><b>10.17</b></td><td>T. Lehtinen:
+<a href="pdf/abs1103.pdf">Inductive single cooper-pair transistor</a></td></tr>
+<tr><td valign="top"><b>10.18</b></td><td>Y. Ma:
+<a href="pdf/abs1107.pdf">Diffusion and magnetic properties of nitrogen on graphite and single-walled carbon nanotubes</a></td></tr>
+<tr><td valign="top"><b>10.19</b></td><td>M. Ropo:
+<a href="pdf/abs1108.pdf">New way to simulate surface segregation: AgPd(111) surface</a></td></tr>
+<tr><td valign="top"><b>10.20</b></td><td>K. Laaksonen:
+<a href="pdf/abs1137.pdf">Electronic and structural properties of nitride alloys</a></td></tr>
+<tr><td valign="top"><b>10.21</b></td><td>I. Ojala:
+<a href="pdf/abs1160.pdf">Magnetic freezing in cadmiun antimonide doped by nickel</a></td></tr>
+<tr><td valign="top"><b>10.22</b></td><td>J.A. Soininen:
+<a href="pdf/abs1166.pdf">Theory and calculations of inelastic x-ray scattering</a></td></tr>
+<tr><td valign="top"><b>10.23</b></td><td>J. Blomqvist:
+<a href="pdf/abs1174.pdf">Oxygen induced reconstruction on a Cu(100) surface</a></td></tr>
+<tr><td valign="top"><b>10.24</b></td><td>E. Niemi:
+<a href="pdf/abs1177.pdf">STM images and tunneling channels of substituted benzene molecules</a></td></tr>
+<tr><td valign="top"><b>10.25</b></td><td>J.-O. Joswig:
+<a href="pdf/abs1224.pdf">Time-dependent density-functional calculations of excitation spectra of small sodium clusters</a></td></tr>
+<tr><td valign="top"><b>10.26</b></td><td>O. Koskelo:
+<a href="pdf/abs1234.pdf">Be diffusion in SiGe</a></td></tr>
+<tr><td valign="top"><b>10.27</b></td><td>H. Nykänen:
+<a href="pdf/abs1246.pdf">Clustering of charged quantum fluid mixtures</a></td></tr>
+<tr><td valign="top"><b>10.28</b></td><td>S. Galambosi:
+<a href="pdf/abs1247.pdf">Inelastic x-ray scattering study of plasmons in MgB<sub>2</sub></a></td></tr>
+<tr><td valign="top"><b>10.29</b></td><td>L.O. Tunturivuori:
+<a href="pdf/abs1266.pdf">Optical properties of small aluminium clusters</a></td></tr>
+<tr><td valign="top"><b>10.30</b></td><td>J. Särkkä:
+<a href="pdf/abs1304.pdf">Thermopower in mesoscopic proximity structures</a></td></tr>
+<tr><td valign="top"><b>10.31</b></td><td>M. Westerling:
+<a href="pdf/abs1311.pdf">Dispersive and non-dispersive recombination of long-lived photoexcitations in disordered organic solids</a></td></tr>
+<tr><td valign="top"><b>10.32</b></td><td>J. Ojanen:
+<a href="pdf/abs1318.pdf">Electronic structure and photoabsorption spectrum of disperse red 1: Comparison of approaches</a></td></tr>
+<tr><td valign="top"><b>10.33</b></td><td>P. Kivinen:
+<a href="pdf/abs1322.pdf">Dependence of the intrinsic noise properties of Nb/AlO<sub><var>x</var></sub>/Nb-junctions on the manufacturing geometry</a></td></tr>
+<tr><td valign="top"><b>10.34</b></td><td>V. Uski:
+<a href="pdf/abs1324.pdf">Statistics of Fano parameters in mesoscopic billiards</a></td></tr>
+<tr><td valign="top"><b>10.35</b></td><td>J. Leppäkangas:
+<a href="pdf/abs1330.pdf">Tunneling of Cooper pairs in mesoscopic asymmetric two Josephson junction system</a></td></tr>
+<tr><td valign="top"><b>10.36</b></td><td>F. Wu:
+<a href="pdf/abs1343.pdf">Shot noise measurements of carbon nanotubes</a></td></tr>
+<tr><td valign="top"><b>10.37</b></td><td>T. Hakala:
+<a href="pdf/abs1364.pdf">Lifetimes of electron-hole excitations at nanostructures on metal surfaces</a></td></tr>
+<tr><td valign="top"><b>10.38</b></td><td>S.S. Gylfadottir:
+<a href="pdf/abs1382.pdf">Time dependent perturbation of a quantum ring</a></td></tr>
+<tr><td valign="top"><b>10.39</b></td><td>N. Nivalainen:
+<a href="pdf/abs1392.pdf">Oxygen induced segregation of Ag/Cu(100)</a></td></tr>
+<tr><td valign="top"><b>10.40</b></td><td>I. Ojala:
+<a href="pdf/abs1393.pdf">Magnetic freezing in cadmium antimonide doped by nickel</a></td></tr>
+<tr><td valign="top"><b>10.41</b></td><td>I. Degtyarenko:
+<a href="pdf/abs1401.pdf">Density functional electronic structure and molecular dynamics simulations of cobalt heme models</a></td></tr>
+</table>
+<h3><a name="14">14. Optics</a></h3>
+<p>Ohjelma ei ole vielä valmis.</p>
+<?php
+include("bottom.php");
+?>
